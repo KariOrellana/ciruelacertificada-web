@@ -1,0 +1,22 @@
+{
+  "mv": {
+    "pp": {"url": "", "texto": "Descarga todos los medios de verificación del estándar de Producción primaria, ordenados por acción."},
+    "aa": {"url": "", "texto": "Descarga todos los medios de verificación del estándar de Adecuación agroindustrial, ordenados por acción."}
+  },
+  "auditores_texto": "Próximamente publicaremos aquí la información para auditores.",
+  "temas": {
+    "gestion-sustentable-del-agua": "Gestión sustentable del agua",
+    "gestion-sustentable-de-residuos": "Gestión sustentable de residuos",
+    "gestion-de-energia-y-eficiencia-energetica": "Gestión de energía y eficiencia energética",
+    "gestion-sustentable-de-suelos": "Gestión sustentable de suelos",
+    "condiciones-laborales-y-proteccion-social": "Condiciones laborales y protección social",
+    "relacion-con-las-comunidades": "Relación con las comunidades",
+    "gestion-sustentable-de-insumos": "Gestión sustentable de insumos",
+    "gei-y-cambio-climatico": "GEI y cambio climático",
+    "gestion-de-la-calidad": "Gestión de la calidad",
+    "gestion-de-la-inocuidad-alimentaria": "Gestión de la inocuidad alimentaria",
+    "viabilidad-economica": "Viabilidad económica",
+    "biodiversidad": "Biodiversidad",
+    "debida-diligencia-de-la-legislacion": "Debida diligencia de la legislación"
+  }
+}
