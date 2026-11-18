@@ -1,9 +1,14 @@
 {
   "mv": {
-    "pp": {"url": "", "texto": "Descarga todos los medios de verificación del estándar de Producción primaria, ordenados por acción."},
-    "aa": {"url": "", "texto": "Descarga todos los medios de verificación del estándar de Adecuación agroindustrial, ordenados por acción."}
+    "pp": {
+      "url": "",
+      "texto": "Descarga todos los medios de verificación del estándar de Producción primaria, ordenados por acción."
+    },
+    "aa": {
+      "url": "",
+      "texto": "Descarga todos los medios de verificación del estándar de Adecuación agroindustrial, ordenados por acción."
+    }
   },
-  "auditores_texto": "Próximamente publicaremos aquí la información para auditores.",
   "temas": {
     "gestion-sustentable-del-agua": "Gestión sustentable del agua",
     "gestion-sustentable-de-residuos": "Gestión sustentable de residuos",
@@ -18,5 +23,80 @@
     "viabilidad-economica": "Viabilidad económica",
     "biodiversidad": "Biodiversidad",
     "debida-diligencia-de-la-legislacion": "Debida diligencia de la legislación"
+  },
+  "formulario_url": "https://forms.gle/LVDVQa413HQ3DWWD9",
+  "plataforma_url": "",
+  "tema_carpeta": {
+    "Agua": "gestion-sustentable-del-agua",
+    "Suelo": "gestion-sustentable-de-suelos",
+    "Biodiversidad": "biodiversidad",
+    "Insumos": "gestion-sustentable-de-insumos",
+    "Residuos": "gestion-sustentable-de-residuos",
+    "Energía": "gestion-de-energia-y-eficiencia-energetica",
+    "Gases de Efecto Invernadero": "gei-y-cambio-climatico",
+    "Gestión de la Calidad": "gestion-de-la-calidad",
+    "Gestión de la Inocuidad": "gestion-de-la-inocuidad-alimentaria",
+    "Viabilidad Económica": "viabilidad-economica",
+    "Comunidades Locales": "relacion-con-las-comunidades",
+    "Condiciones de Trabajo y Protección Social": "condiciones-laborales-y-proteccion-social",
+    "Debida Diligencia de la Legislación": "debida-diligencia-de-la-legislacion"
+  },
+  "banner": "b",
+  "empresas": {
+    "aa": {
+      "plantas": 8,
+      "pct": 73.7,
+      "texto": "de la fruta procesada del país",
+      "firma": "noviembre 2024"
+    },
+    "pp": {
+      "predios": 23,
+      "empresas": 13,
+      "pct": 12.8,
+      "texto": "de la superficie nacional",
+      "firma": "junio 2026"
+    }
+  },
+  "auditores": {
+    "intro": "Aquí encuentras lo necesario para auditar los estándares de sustentabilidad de la ciruela deshidratada: los requisitos, cómo inscribirte en el Registro y las inhabilidades.",
+    "pasos": [
+      [
+        "Cumple los requisitos",
+        "Verifica que cumples la formación, la experiencia y la independencia que exige el Registro Nacional de Auditores de APL."
+      ],
+      [
+        "Inscríbete en el Registro",
+        "Postula al Registro Nacional de Auditores de APL de la ASCC, en línea en www.accion.ascc.cl. Es un proceso que resuelve la ASCC."
+      ],
+      [
+        "Audita los estándares",
+        "Realiza las auditorías de evaluación de cumplimiento conforme a la norma NCh2825 of.2024, en predios y plantas."
+      ]
+    ],
+    "req_intro": "Para incorporarte al Registro Nacional de Auditores de APL debes cumplir los requisitos de las Bases Técnicas y Administrativas del Registro y de la NCh2825 of.2024.",
+    "requisitos": [
+      [
+        "Formación",
+        "Poseer un título profesional, licenciatura o título técnico."
+      ],
+      [
+        "Experiencia en auditoría",
+        "Haber participado en al menos 4 auditorías, respaldadas con certificados firmados por la contraparte."
+      ],
+      [
+        "Experiencia temática",
+        "Experiencia demostrable en materias propias de los APL, como buenas prácticas y tecnologías limpias, gestión de residuos, inocuidad de los alimentos o eficiencia energética."
+      ],
+      [
+        "Independencia",
+        "No haber asesorado la implementación del APL en la empresa a auditar, ni tener relación de propiedad o laboral con ella."
+      ]
+    ],
+    "inh_intro": "Para resguardar la independencia de la auditoría, un auditor o auditora no puede auditar una empresa si:",
+    "inhabilidades": [
+      "Prestó asesoría o consultoría para implementar el APL en esa unidad operacional.",
+      "Tiene relación de propiedad con la empresa auditada.",
+      "Tiene o tuvo relación laboral con la empresa auditada, después del inicio de la negociación del APL."
+    ]
   }
 }

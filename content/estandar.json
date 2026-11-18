@@ -1,0 +1,2114 @@
+{
+ "AA 001": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta registra mensualmente el consumo de agua en las plantas, especificando la fuente de abastecimiento y su uso.",
+  "mv": "Registro de consumo de agua mensual con la siguiente información: • Fuente de abastecimiento disponible (canal, pozo, suministro de agua potable, red aljibe, etc.). • Consumo mensual por cada fuente (litros). • Tipo de uso dentro de la línea de proceso de cada una de las fuentes."
+ },
+ "AA 002": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en la planta",
+  "nivel": "Básico",
+  "accion": "La planta capacita a las personas tomadoras de decisiones en el ámbito hídrico, abordando estrategias para la gestión eficiente del recurso.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada) o certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.). Se verifica que al menos una persona atingente al área, haya recibido esta capacitación."
+ },
+ "AA 003": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en la planta",
+  "nivel": "Básico",
+  "accion": "La planta cuenta con un mapa o plano con la ubicación de las fuentes de aprovisionamiento de agua dentro de la explotación y la estructura hídrica, asociada a las diferentes fases de la producción (secado, tiernizado, despepitado, etc.).",
+  "mv": "Mapa o plano de fuentes de agua e infraestructura hídrica, ya sea digital o en papel."
+ },
+ "AA 004": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta capacita a las personas que ejecuten acciones asociadas al ámbito hídrico, abordando acciones operativas que permitan la gestión eficiente del recurso.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 005": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en la planta",
+  "nivel": "Avanzado",
+  "accion": "La planta cuenta con un documento que define un plan de gestión del recurso hídrico.",
+  "mv": "Plan de gestión del recurso hídrico que considere los siguientes indicadores: • Un indicador de eficiencia del uso del agua utilizada (litros de agua/kg ciruela seca). • Una meta de eficiencia del uso del agua en base al indicador propuesto en el punto anterior. • Una propuesta de un porcentaje de reducción del uso del agua (en caso de que no se cumpla con la meta de eficiencia)."
+ },
+ "AA 006": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en la planta",
+  "nivel": "Avanzado",
+  "accion": "La planta mide la huella de agua corporativa que usa en actividades propias.",
+  "mv": "Documento que evidencie la medición de huella hídrica en base a la metodología de la norma ISO 14.046."
+ },
+ "AA 007": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar las pérdidas de agua en la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta cuenta con señalética orientada al ahorro de agua en lugares críticos (servicios higiénicos y de alimentación, zona de lavado de equipos y maquinarias).",
+  "mv": "Inspección visual de señaléticas de ahorro de agua en servicios higiénicos y de alimentación, zona de lavado de equipos y maquinarias."
+ },
+ "AA 008": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar las pérdidas de agua en la planta",
+  "nivel": "Básico",
+  "accion": "La planta realiza revisiones periódicas, mantenciones y reparaciones de la infraestructura hídrica, para controlar las fugas de agua.",
+  "mv": "Check list o registro de mantención de la infraestructura con los siguientes datos: • Tipo de evento. • Fecha de ejecución. • Equipo o infraestructura. • Detalle de labores. • Responsable. En el caso de que las mantenciones las realice una empresa externa, esta debe entregar un comprobante o informe que certifique las acciones realizadas estén en función de lo solicitado."
+ },
+ "AA 009": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar las pérdidas de agua en la planta",
+  "nivel": "Básico",
+  "accion": "La planta monitorea regularmente las fugas o roturas dentro de su infraestructura hídrica.",
+  "mv": "Check list o calendarización de monitoreo de comprobación de fugas con la siguiente información. • Tipo de evento. • Fecha de ejecución. • Equipo o infraestructura. • Detalle de labores. • Responsable."
+ },
+ "AA 010": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar las pérdidas de agua en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta implementa sistemas automáticos de corte de agua en todas las mangueras utilizadas para la limpieza de pisos y en los lavamanos.",
+  "mv": "Inspección visual de mangueras y lavamanos, observando sistemas de corte automático."
+ },
+ "AA 011": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar las pérdidas de agua en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta promueve el ahorro de agua en los protocolos de lavado o limpieza de materia prima.",
+  "mv": "Protocolo o procedimiento de limpieza de materia prima."
+ },
+ "AA 012": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar las pérdidas de agua en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta privilegia las prácticas como raspado y barrido antes de lavar los suelos, usando mangueras de alta presión o reutilizando aguas de preparación de alimentos.",
+  "mv": "Protocolo o procedimiento de limpieza de suelos."
+ },
+ "AA 013": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Reutilizar el agua dentro de la planta",
+  "nivel": "Avanzado",
+  "accion": "La planta implementa técnicas de recirculación y reutilización de aguas, ya sea para el uso en planta, para riego (áreas verdes o cultivos asociados) o para reincorporar el recurso a los cursos de agua preexistentes.",
+  "mv": "Inspección visual de la zona de tratado y posterior recirculación de aguas dentro de la planta. En el caso de que esta acción la realice una empresa externa, debe existir un comprobante detallado de los procedimientos utilizados y el destino del agua reutilizada."
+ },
+ "AA 014": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar los riesgos de contaminación de aguas",
+  "nivel": "Básico",
+  "accion": "La planta cuenta con fuentes y cursos de agua libres de residuos sólidos domiciliarios y agrícolas.",
+  "mv": "Inspección visual de fuentes y cursos de agua limpios."
+ },
+ "AA 015": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar los riesgos de contaminación de aguas",
+  "nivel": "Intermedio",
+  "accion": "La planta cuenta con un espacio específico para el lavado de equipos móviles, ej. Bins, alejado de las fuentes o cursos de agua.",
+  "mv": "Inspección visual de existencia de zona de lavado de equipos que no esté en contacto con el suelo y con vías de evacuación de aguas de lavado."
+ },
+ "AA 016": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Monitorear y asegurar la calidad del agua utilizada en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta realiza análisis periódicos a las aguas residuales provenientes de instalaciones de procesamiento, previo a que estas sean desechadas o reutilizadas.",
+  "mv": "Informe de análisis físico-químicos y microbiológicos actualizados periódicamente."
+ },
+ "AA 017": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Monitorear y asegurar la calidad del agua utilizada en la planta",
+  "nivel": "Avanzado",
+  "accion": "La planta realiza análisis periódicos para evaluar la calidad química y biológica de las fuentes de alimentación de agua.",
+  "mv": "Informe de análisis físico-químicos y microbiológicos, actualizados periódicamente según NCH409."
+ },
+ "AA 018": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Establecer un ordenamiento territorial y línea base",
+  "nivel": "Avanzado",
+  "accion": "La planta cuenta con un diagnóstico donde se identifica la biodiversidad existente y las áreas de alto valor ecológico, dentro de su propiedad.",
+  "mv": "Diagnóstico de la biodiversidad con los siguientes puntos: • Mapa con identificación de áreas en la explotación con alto valor ecológico (ej. lagos, estanques y cursos de agua, corredores de vida silvestre, humedales, pastizales ricos en especies, etc.). • Catastro de la biodiversidad existente en el lugar, por ejemplo: principales especies presentes en el entorno (aves, mamíferos, árboles, insectos, hongos, arbustos, etc.) • Registro fotográfico con georreferenciación del estado inicial de las zonas de vegetación natural de conectividad, márgenes y límites de los campos, zonas de amortiguamiento ribereño y áreas de conservación con vegetación nativa."
+ },
+ "AA 019": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Establecer un ordenamiento territorial y línea base",
+  "nivel": "Avanzado",
+  "accion": "La planta cuenta con un plan para la gestión de la biodiversidad que propone medidas de conservación, utilizando información rescatada en el diagnóstico realizado previamente. Este plan es evaluado y actualizado cada 5 años.",
+  "mv": "Plan de gestión con protocolos para la implementación de las siguientes medidas: • Línea base de sitios de interés. • Priorización y definición de objetivos de conservación. • Medidas de conectividad, restauración y rehabilitación. • Medidas de manejo y control de especies exóticas. • Plan de ordenamiento predial. Dicho documento debe tener una fecha de elaboración inferior a 5 años."
+ },
+ "AA 020": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Fomentar la participación en acciones para la protección y conservación de ecosistemas, hábitats o especies",
+  "nivel": "Avanzado",
+  "accion": "La planta capacita a quienes trabajan permanentemente en la empresa, sobre el plan de gestión de la biodiversidad propuesto, generando un listado de acciones a tomar para potenciar la biodiversidad.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 021": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Fomentar la participación en acciones para la protección y conservación de ecosistemas, hábitats o especies",
+  "nivel": "Avanzado",
+  "accion": "La planta mantiene un diálogo permanente con las empresas relacionadas al rubro en el territorio, con el objetivo de implementar en conjunto, medidas de conservación y mitigación que les permitan tener un plan de gestión de manera asociativa.",
+  "mv": "Actas de reuniones de mesas de trabajo con empresas en el territorio."
+ },
+ "AA 022": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Básico",
+  "accion": "La planta mantiene la conectividad entre la vegetación natural, potenciando su complejidad estructural, a través de cercos vivos, corredores biológicos, franjas ribereñas, entre otras.",
+  "mv": "Inspección visual de la existencia de vegetación natural de conectividad."
+ },
+ "AA 023": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Básico",
+  "accion": "La planta protege las zonas de amortiguamiento ribereño (dentro de su propiedad), en el caso de encontrarse a menos de 50 metros de un cuerpo de agua o ecosistema acuático.",
+  "mv": "Inspección visual de los márgenes ribereños o franjas de amortiguación, los que deben ser mayores a 5 m en cursos de agua y mayores a 10 m en manantiales y cuerpos de agua."
+ },
+ "AA 024": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Intermedio",
+  "accion": "La planta identifica y monitorea las especies exóticas invasoras, en base al listado descrito en el diagnóstico.",
+  "mv": "Registro de monitoreo de especies exóticas invasoras con la siguiente información: • Fecha del hallazgo. • Nombre de la especie. • Ubicación. • N° de individuos visualizados. • Daño provocado. • Medidas de mitigación."
+ },
+ "AA 025": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Intermedio",
+  "accion": "La planta mantiene áreas de conservación con vegetación nativa en zonas productivas.",
+  "mv": "Son válidos los siguientes documentos: • Mapa que identifique zonas con vegetación nativa. • Registro del comparativo de las fotografías de estado inicial con respecto a la situación actual."
+ },
+ "AA 026": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Intermedio",
+  "accion": "La planta implementa medidas para proteger especies de fauna silvestre.",
+  "mv": "Inspección visual de señalética con medidas de protección de la fauna silvestre respecto a: • No cazar, matar, pescar o recolectar animales con prohibición según la legislación. • No retener la vida silvestre en cautiverio. • No realizar labores de limpieza de zanjas o poda de corta vientos en época de anidación de aves. • Limitar el libre movimiento de animales domésticos en áreas de producción. • Protocolo de acción en el caso de encontrar una especie nativa herida."
+ },
+ "AA 027": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Intermedio",
+  "accion": "La planta implementa procedimientos de reforestación o replantación, en caso de ser requerida la remoción de árboles dentro de la misma explotación. Esta reforestación debe realizarse con especies nativas de bajo requerimiento hídrico.",
+  "mv": "Protocolo de reforestación que incluya medidas de cuidado de árboles reforestados."
+ },
+ "AA 028": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Controlar la calidad de insumos y materias primas",
+  "nivel": "Fundamental",
+  "accion": "La planta implementa procesos de control de calidad a la fruta utilizada en el proceso de elaboración de la ciruela deshidratada.",
+  "mv": "Registros de control de calidad a la ciruela precosecha, durante el secado (en cancha) y al ingreso a la planta, midiendo los siguientes parámetros: • Grados brix, firmeza y porcentaje de color. • Diámetro. • Humedad de la fruta (sólo fruta seca). • Identificación de daños."
+ },
+ "AA 029": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Controlar la calidad de insumos y materias primas",
+  "nivel": "Fundamental",
+  "accion": "La planta implementa procesos de control de calidad a todos los insumos y materias primas utilizadas dentro del proceso.",
+  "mv": "Registro de recepción de materias primas verificando el cumplimiento de las especificaciones técnicas: • En el caso de envases y embalajes: medidas, colores, tipo de material, gramaje. • En el caso de ingredientes: condiciones microbiológicas."
+ },
+ "AA 030": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Controlar la calidad de insumos y materias primas",
+  "nivel": "Básico",
+  "accion": "La planta solicita a sus empresas proveedoras de insumos de envase y embalaje, que realice controles de calidad de sus productos.",
+  "mv": "Documento que dé cuenta de al menos uno de los siguientes registros: • Registro de auditorías a proveedores. • Registro de certificaciones al día de proveedores."
+ },
+ "AA 031": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Controlar la calidad de insumos y materias primas",
+  "nivel": "Básico",
+  "accion": "La planta solicita a sus empresas proveedoras de ingredientes que son adicionados al producto (sorbato de potasio o aceites), que realicen controles de calidad a sus productos.",
+  "mv": "Documento que dé cuenta de al menos uno de los siguientes registros: • Registro de certificaciones al día de proveedores. • Copia de la resolución sanitaria de la empresa proveedora o implementación de HACCP."
+ },
+ "AA 032": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Controlar la calidad de insumos y materias primas",
+  "nivel": "Intermedio",
+  "accion": "La planta cuenta con protocolo de limpieza y se asegura de que los materiales que son reutilizados (bandejas de madera para secado, bins, carros de metal para bandejas, cajas de cartón y perimetrales), sean limpiados, reparados y revisados para su reingreso a producción.",
+  "mv": "Protocolo de limpieza, revisión y reparación de materiales."
+ },
+ "AA 033": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Respetar los niveles máximos residuales",
+  "nivel": "Básico",
+  "accion": "La planta respeta los niveles máximos de sorbato de potasio u otro insumo utilizado durante el proceso de secado o tiernizado, respetando los límites establecidos y en base a los requerimientos de los mercados de destino.",
+  "mv": "Registro de aplicación de productos en planta (sorbato de potasio y aceites vegetales), identificando los siguientes puntos: • Producto y su trazabilidad (lote). • Fase de la producción. • Fecha de aplicación. • Dosis aplicada."
+ },
+ "AA 034": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Utilizar empaques sustentables",
+  "nivel": "Fundamental",
+  "accion": "La planta evalúa la factibilidad técnica y económica de utilizar envases reciclables o reutilizables, de acuerdo a una evaluación previa de sus productos o procesos, en busca de la mejora continua en aspectos de sustentabilidad.",
+  "mv": "Estudio de pre factibilidad. (La empresa externa que lo realice, debe entregar un informe que certifique las acciones realizadas para desarrollar lo solicitado)."
+ },
+ "AA 035": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Utilizar empaques sustentables",
+  "nivel": "Avanzado",
+  "accion": "La planta utiliza, en los empaques que no están en contacto directo con el producto, materiales reutilizables o reciclables. Dichos empaques poseen, al menos, una de las siguientes características: • Material reciclable. • Material reutilizable. • Material reciclado post consumidor. • Material biodegradable. • Material compostable.",
+  "mv": "Ficha técnica del insumo según especificaciones técnicas entregadas por el proveedor (Gramaje, % de insumos reciclables y tipo de material)."
+ },
+ "AA 036": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Utilizar empaques sustentables",
+  "nivel": "Avanzado",
+  "accion": "La planta utiliza, en los empaques que estén en contacto directo con el producto, materiales reutilizables o reciclables. Dichos empaques poseen, al menos, una de las siguientes características: • Material reciclable. • Material reutilizable. • Material reciclado post consumidor. • Material biodegradable. • Material compostable.",
+  "mv": "Ficha técnica del insumo según especificaciones técnicas entregadas por el proveedor (Gramaje, % de insumos reciclables y tipo de material)."
+ },
+ "AA 037": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Contar con un plan de manejo de residuos",
+  "nivel": "Fundamental",
+  "accion": "La planta identifica los residuos sólidos generados y las posibles fuentes de contaminación.",
+  "mv": "Registro actualizado que contiene la siguiente información: • Identificación del tipo de residuo o agente contaminante. • Identificación de la cantidad producida mensualmente. • Identificación de los residuos peligrosos. • Ubicación dentro de la planta. • Destino del residuo (reciclaje, reúso, eliminación, etc.)."
+ },
+ "AA 038": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Contar con un plan de manejo de residuos",
+  "nivel": "Avanzado",
+  "accion": "La planta ha generado y documentado un plan de manejo de residuos.",
+  "mv": "Plan de manejo de residuos que contenga los siguientes contenidos: • Protocolos de almacenamiento de residuos peligrosos. • Manejo de residuos para reciclaje o reutilización. • Medidas de mitigación en caso de contaminación. • Descripción del proceso y los puntos en que se generan residuos. • Procedimientos internos para recoger y almacenar los residuos. • Identificación de alternativas de minimización, valorización y eliminación de residuos."
+ },
+ "AA 039": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Minimizar la contaminación derivada de la gestión de los residuos",
+  "nivel": "Fundamental",
+  "accion": "La planta manipula los residuos (sólidos y/o líquidos) de manera tal, que no generen derrames que contaminen el suelo y/o el agua.",
+  "mv": "Inspección visual del área de almacenamiento, corroborando que los residuos se encuentren dentro de los contenedores correspondientes, evitando el contacto directo con el suelo, con el objetivo de no generar contaminación (ejemplo: radier y techo)."
+ },
+ "AA 040": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Minimizar la contaminación derivada de la gestión de los residuos",
+  "nivel": "Básico",
+  "accion": "La planta implementa un protocolo para minimizar la contaminación atmosférica por material particulado al interior de sus dependencias.",
+  "mv": "Protocolo que cuente con las siguientes medidas para minimizar la contaminación: • No se permite la quema ni incineración de los desechos derivados de la producción. • Los caminos son pavimentados o se aplica un suspensor de polvo químico o gravilla para evitar el aumento de la polución. • Se realiza mantención a los equipos que utilizan combustibles fósiles internos, para evitar contaminación debido a fallas mecánicas."
+ },
+ "AA 041": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Minimizar la contaminación derivada de la gestión de los residuos",
+  "nivel": "Intermedio",
+  "accion": "La planta cuenta con señaléticas para las situaciones de emergencia por contaminación por derrames de residuos líquidos.",
+  "mv": "Inspección visual de señaléticas en lugares de riesgo de contaminación, que contemplen los siguientes elementos: • Información sobre acciones de mitigación inmediata. • Información de contacto con servicios de emergencia y autoridades locales."
+ },
+ "AA 042": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Minimizar la contaminación derivada de la gestión de los residuos",
+  "nivel": "Avanzado",
+  "accion": "La planta capacita a su personal en la implementación del protocolo de gestión de emergencias por contaminación por derrames de residuos líquidos.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 043": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar adecuadamente los residuos derivados de la producción",
+  "nivel": "Básico",
+  "accion": "La planta registra periódicamente la generación y tratamiento de RILES.",
+  "mv": "Documento con certificado de autocontrol otorgado por el Sistema de Fiscalización de Norma de Emisión de Residuos Industriales Líquidos, de la Superintendencia del Medio Ambiente (SMA). (https://portalvu.mma.gob. cl/)."
+ },
+ "AA 044": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar adecuadamente los residuos derivados de la producción",
+  "nivel": "Intermedio",
+  "accion": "La planta almacena los residuos peligrosos, (por ejemplo: los aceites lubricantes derivados de vehículos y maquinarias utilizadas en la explotación), en bodegas exclusivas para este tipo de material.",
+  "mv": "Inspección visual de zona de almacenamiento de residuos peligrosos."
+ },
+ "AA 045": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar adecuadamente los residuos derivados de la producción",
+  "nivel": "Intermedio",
+  "accion": "La planta lleva registro de los residuos peligrosos generados, siendo manipulados y desechados, por ejemplo: - Aceites lubricantes. - Envases y recipientes con residuos de detergentes, desinfectantes o productos químicos de procesos.",
+  "mv": "Registro actualizado que contiene la siguiente información: • Identificación del tipo de residuo o agente contaminante. • Identificación de la cantidad producida mensualmente. • Identificación de los residuos peligrosos. • Ubicación dentro de la planta. • Destino del residuo, con autorización sanitaria (reciclaje, reúso, etc.)."
+ },
+ "AA 046": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar adecuadamente los residuos derivados de la producción",
+  "nivel": "Intermedio",
+  "accion": "La planta registra el volumen de biosólidos generados.",
+  "mv": "Registro actualizado que contiene la siguiente información: • Identificación del tipo de residuo o agente contaminante. • Identificación de la cantidad producida mensualmente. • Identificación de los residuos. • Ubicación dentro de la planta. • Destino del residuo (reciclaje, reúso, etc.)."
+ },
+ "AA 047": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar adecuadamente los residuos derivados de la producción",
+  "nivel": "Avanzado",
+  "accion": "La planta segrega las aguas lluvias de las aguas derivadas de la producción, con el fin de disminuir el caudal de entrada al sistema de recepción de RILES.",
+  "mv": "Inspección visual de áreas de segregación de aguas lluvia."
+ },
+ "AA 048": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar adecuadamente los residuos derivados de la producción",
+  "nivel": "Avanzado",
+  "accion": "La planta gestiona los residuos de aceites lubricantes derivados de vehículos y maquinarias utilizadas en la empresa, a través de empresas especializadas en su posterior valorización.",
+  "mv": "Informe que certifique el retiro y la posterior reutilización de los residuos, realizado por la empresa autorizada a cargo de la gestión."
+ },
+ "AA 049": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar residuos inorgánicos a través de técnicas de valorización y reciclaje",
+  "nivel": "Fundamental",
+  "accion": "La planta disminuye sus residuos enviados a gestores autorizados a través de la segregación, almacenamiento y entrega para su valorización, basándose en sus características y en las opciones de reciclaje disponibles.",
+  "mv": "Inspección visual de la existencia de contenedores y señaléticas informativas con respecto a la gestión de los residuos de reciclaje de: • PET y otros plásticos. • Tetra brik. • Papeles y cartones. • Vidrios. • Latas y otros metales. • Residuos peligrosos. • Residuos no reciclables."
+ },
+ "AA 050": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar residuos inorgánicos a través de técnicas de valorización y reciclaje",
+  "nivel": "Intermedio",
+  "accion": "La planta capacita a su personal sobre la relevancia del reciclaje y los procedimientos apropiados para su implementación.",
+  "mv": "Documentación de ejecución de capacitaciones (lista de asistencia identificando sexo del participante, tema expuesto, expositor, material expuesto)."
+ },
+ "AA 051": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Compostar la materia orgánica generada utilizando el compost en su actividad productiva",
+  "nivel": "Fundamental",
+  "accion": "La planta reutiliza la materia orgánica generada en sus procesos, a través de al menos una de las siguientes técnicas: • Compostaje. • Lombricultura. • Biomasa Carozo para la combustión de calderas en el proceso de tiernizado. • Venta o donación a otras explotaciones.",
+  "mv": "Registro actualizado que contiene la siguiente información: • Identificación del tipo de residuo orgánico. • Identificación de la cantidad producida mensualmente. • Ubicación dentro de la planta. • Destino del residuo (reciclaje, reúso, etc.)."
+ },
+ "AA 052": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar un sistema de gestión de la energía",
+  "nivel": "Fundamental",
+  "accion": "La planta establece un sistema de registro mensual del consumo de energía.",
+  "mv": "Registro de consumo energético actualizado mensualmente que contenga la siguiente información: • Tipo de fuente de energía. Eléctrica, gas (natural y/o licuado), combustible (diésel, bencina, kerosene), leña, carbón, entre otros. • Consumo energético mensual (kWh). • Gasto en energía ($/mes)."
+ },
+ "AA 053": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar un sistema de gestión de la energía",
+  "nivel": "Intermedio",
+  "accion": "La planta implementa un plan de capacitación para quienes trabajan en ella, abordando la gestión eficiente de la energía.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 054": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar un sistema de gestión de la energía",
+  "nivel": "Intermedio",
+  "accion": "La planta cuenta con un diagnóstico energético actualizado.",
+  "mv": "Reporte de diagnóstico energético con levantamiento de información para la identificación de consumo cuenta con: • Registros mensuales de consumo energético. • Identificación de equipos y su consumo energético. (Identificar las áreas críticas en cuanto a consumo). • Identificación de períodos de alto consumo energético por mes (estacional o continuo). • Registro de mantenimiento de equipos. • Definición del indicador de consumo en base a la producción. • Identificación de capacitaciones en el ámbito de energía. • Identificación de oportunidades de mejora y costos, tiempo de implementación, necesidades adicionales (construcción, capacitación, remodelación, entre otras). En el caso de que lo haga una empresa externa, ésta deberá entregar un informe que certifique las acciones realizadas para entregar el diagnóstico."
+ },
+ "AA 055": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar un sistema de gestión de la energía",
+  "nivel": "Avanzado",
+  "accion": "La planta implementa un sistema de gestión de la energía.",
+  "mv": "Documento con un sistema de gestión de la energía que considere la siguiente información: • Determinación del alcance del sistema de gestión de la energía. • Línea de base energética a través de un indicador de eficiencia energética indicando el año de la línea base (kWh /kilo de fruta seca). • Una meta de intensidad energética."
+ },
+ "AA 056": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar medidas de eficiencia energética relacionadas al plan de gestión",
+  "nivel": "Fundamental",
+  "accion": "La planta cuenta con señalética que promueve el uso eficiente de la energía.",
+  "mv": "Inspección visual de señaléticas de uso eficiente de energía en espacios de trabajo con la siguiente información: • Apaga la luz antes de salir. • Cierra la puerta al salir. • Notificar fugas de vapor. • Recordar mantenciones preventivas. • Regular el consumo de agua caliente."
+ },
+ "AA 057": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar medidas de eficiencia energética relacionadas al plan de gestión",
+  "nivel": "Fundamental",
+  "accion": "La planta adquiere equipos industriales o maquinarias o, sustituye sus piezas por otras que presenten un bajo consumo energético o que incorporen el modo ahorro de energía.",
+  "mv": "Fichas técnicas de los equipos, maquinarias o piezas que especifiquen el registro de potencia en cada caso."
+ },
+ "AA 058": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar medidas de eficiencia energética relacionadas al plan de gestión",
+  "nivel": "Básico",
+  "accion": "La planta implementa medidas para mejorar la eficiencia de los vehículos dentro de la explotación.",
+  "mv": "Inspección visual de señaléticas en área de guardado de vehículos que apunten a las siguientes medidas. • Control de la presión de los neumáticos. • Reducción del peso de la carga en los vehículos. • Conducción eficiente a velocidades inferiores a 20 km/h. • Combina viajes y evita los que son innecesarios. • Conduce suavemente, evitando aceleraciones y frenadas bruscas. • Condiciones climáticas: El viento en contra y las temperaturas extremas pueden aumentar el consumo de combustible."
+ },
+ "AA 059": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar medidas de eficiencia energética relacionadas al plan de gestión",
+  "nivel": "Básico",
+  "accion": "La planta realiza mantención de equipos, maquinarias y vehículos, una vez durante la temporada o más frecuentemente si las indicaciones del fabricante lo estipulan, asegurando un adecuado funcionamiento y uso eficiente de la energía.",
+  "mv": "Check list o registro de mantención de equipos, maquinarias y vehículos los siguientes datos: • Fecha • Tipo de evento • Equipo o infraestructura • Detalle labores • Responsable En el caso de que las mantenciones las realice una empresa externa, esta debe entregar un comprobante o informe que certifique que las acciones realizadas estén en función de lo solicitado."
+ },
+ "AA 060": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar medidas de eficiencia energética relacionadas al plan de gestión",
+  "nivel": "Básico",
+  "accion": "La planta implementa un plan de mantenimiento de luminarias, para gestionar eficientemente la iluminación dentro del recinto.",
+  "mv": "Plan de mantenimiento elaborado que incorpore al menos las siguientes medidas: • Utiliza luminaria de bajo consumo energético. • Limpia las luminarias y ampolletas periódicamente. • En caso de reemplazo, indicar tipo de luminarias que se debe adquirir."
+ },
+ "AA 061": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar sistemas de energías renovables",
+  "nivel": "Intermedio",
+  "accion": "La planta evalúa la prefactibilidad técnica y económica de incorporar energías renovables dentro de su sistema productivo.",
+  "mv": "Documento con estudio de prefactibilidad técnico económica. En el caso de que lo haga una empresa externa, esta debe entregar un informe que certifique que las acciones realizadas estén en función de lo solicitado."
+ },
+ "AA 062": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar sistemas de energías renovables",
+  "nivel": "Avanzado",
+  "accion": "La planta utiliza sistemas de energía renovable para autoconsumo energético.",
+  "mv": "Inspección visual de alguno de los siguientes tipos de energía: • Energía solar. • Eólica. • Mini hidroeléctrica. • Biomasa o biogás."
+ },
+ "AA 063": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero (GEI)",
+  "bp": "Cuantificar emisiones de GEI en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta cuantifica sus emisiones directas e indirectas de GEI de la unidad y define una línea base en las principales etapas de su producción.",
+  "mv": "Registro de emisiones y capturas que incluya, fecha, monitoreo, periodo, balance de los siguientes aspectos: Emisiones directas de GEI • Combustión estacionaria • Combustión móvil • Uso suelo, cambios en el uso de suelo y silvicultura • Procesos industriales • Emisiones fugitivas Emisiones indirectas de GEI causadas por energía importada • Electricidad importada • Otra energía importada y/o pérdidas T&D Otras emisiones indirectas de GEI • Transporte • Bienes y servicios utilizados • Uso de productos de la organización *Se recomienda el uso de la plataforma de Huella Chile para cuantificar emisiones. En el caso de que lo haga una empresa externa, esta debe entregar un informe que certifique que las acciones realizadas estén en función de lo solicitado."
+ },
+ "AA 064": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero (GEI)",
+  "bp": "Cuantificar emisiones de GEI en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta monitorea periódicamente los GEI de la unidad.",
+  "mv": "Reporte anual de emisiones y capturas, con indicación de la metodología empleada y los resultados obtenidos. En el caso de que lo haga una empresa externa, esta debe entregar un informe que certifique que las acciones realizadas estén en función de lo solicitado."
+ },
+ "AA 065": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero (GEI)",
+  "bp": "Reducir las emisiones y promover las capturas de GEI en la planta",
+  "nivel": "Básico",
+  "accion": "La planta implementa un plan de capacitación para las personas que trabajan en ella, abordando la problemática asociada al cambio climático y conceptos sobre cuantificación y mitigación de emisión de GEI.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 066": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero (GEI)",
+  "bp": "Reducir las emisiones y promover las capturas de GEI en la planta",
+  "nivel": "Avanzado",
+  "accion": "La planta cuenta con un protocolo para reducir sus emisiones de GEI que contempla, por ejemplo, alguna de las siguientes medidas: • Cambiar el sistema de calefacción de caldera de petróleo por gas natural o biogás. • Instalar paneles solares térmicos para el precalentamiento del agua utilizada en el procesamiento de ciruelas. • Implementar luminarias LED de bajo consumo con automatización. • Mejorar el aislamiento térmico en paredes y techos para reducir pérdidas de calor. • Establecer un plan de mantención preventiva de maquinaria y equipos. • Reemplazar montacargas y vehículos de transporte por modelos eléctricos de bajas emisiones.",
+  "mv": "Protocolo para reducir las emisiones de GEI."
+ },
+ "AA 067": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero (GEI)",
+  "bp": "Elaborar un plan de reducción de riesgos de desastres",
+  "nivel": "Avanzado",
+  "accion": "La planta elabora e implementa un plan de reducción, control y respuesta frente a riesgo de desastres, vinculados al Cambio Climático. La elaboración del plan contempla determinar las amenazas históricas y proyectadas, identificar los recursos mínimos y capacidades para abordar las amenazas, y determinar las debilidades respecto de los recursos y capacidades requeridas. Las medidas del plan se elaboran en función de las debilidades detectadas y su respectiva priorización.",
+  "mv": "Plan de reducción, control y respuesta frente a riesgos de desastres, vinculados al Cambio Climático que contenga al menos la siguiente información: • Listado de las amenazas o peligros (internas y externas) según su origen, y evaluación de recursos y vulnerabilidades para enfrentar cada una de ellas • Programas de trabajo en sus fases de prevención, respuesta y recuperación. • Definición de responsables y de mecanismos para asignación de recursos que financien los programas de trabajo que surjan del plan. • Realización de simulaciones y simulacros. El plan debe ser evaluado posterior a la ocurrencia de cada evento de emergencia o desastre."
+ },
+ "AA 068": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero (GEI)",
+  "bp": "Elaborar un plan de reducción de riesgos de desastres",
+  "nivel": "Avanzado",
+  "accion": "La planta incorpora monitoreo de parámetros de la situación meteorológica propia o cercana, para visualizar episodios extremos de sequías extremas, altas y bajas temperaturas, y episodios de alta pluviometría.",
+  "mv": "Registro de eventos meteorológicos significativos, indicando la fuente de obtención de la información (estación meteorológica propia o datos de portales como http://agroclima.cl/ o https://agrometeorologia. cl/ , de los siguientes puntos: • Altas temperaturas (más de 30°C). • Bajas temperaturas (menos de 4°C). • Lluvias. • Fuente de obtención de la información. Este registro debe ser actualizado de manera mensual."
+ },
+ "AA 069": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero (GEI)",
+  "bp": "Elaborar un plan de reducción de riesgos de desastres",
+  "nivel": "Avanzado",
+  "accion": "La planta capacita al personal sobre el un plan de reducción, control y respuesta frente a riesgo de desastres, vinculados al Cambio Climático, para evitar que sean susceptibles a sufrir daños o pérdidas por efecto de las amenazas.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 070": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta identifica y gestiona de manera eficiente, los principales Puntos Críticos de Control (PCC) asociados a la producción de ciruelas deshidratadas. Se deben considerar, al menos, los siguientes puntos: • Identificar el producto. • Describir el producto y el uso previsto, incluidas instrucciones de procesamiento validadas. • Listar materias primas/ingredientes. • Incluir un diagrama de flujo del proceso (con los PCC identificados). • Incluir un análisis de peligros de materias primas, productos y procesos. • Describir el objetivo y los límites críticos del PCC. • Describir el seguimiento y la frecuencia de los PCC. • Detallar acciones correctivas para cada PCC.",
+  "mv": "Protocolo de acciones de control de calidad realizadas en la planta."
+ },
+ "AA 071": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en la planta",
+  "nivel": "Básico",
+  "accion": "La planta establece un procedimiento de gestión de la calidad en la recepción de la materia prima y en las etapas del proceso productivo y el producto final.",
+  "mv": "Protocolo de gestión de calidad que detalle los procesos realizados para cumplir los requisitos de seguridad, legalidad y calidad del producto, y los requisitos de sus futuros proveedores. Compromiso gerencial a través de la firma de la política de calidad."
+ },
+ "AA 072": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en la planta",
+  "nivel": "Básico",
+  "accion": "La planta posee un procedimiento de gestión de la calidad conocida por las personas que trabajan en ella.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada). Se verifica que al menos una persona atingente al área, haya recibido esta capacitación."
+ },
+ "AA 073": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta establece canales de comunicación directos, para recibir y responder de manera oportuna los reclamos de clientes y consumidores.",
+  "mv": "Registro que evidencie las vías de comunicación con clientes y consumidores, ya sea de manera física (empaques) o digital (página web), para el envío de sugerencias y reclamos."
+ },
+ "AA 074": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta gestiona sus auditorías internas en base a los riesgos asociados, para evaluar el nivel de cumplimiento de su política de gestión de calidad.",
+  "mv": "Comprobante de auditoría interna, que permita verificar que se cumple con los requisitos de las certificaciones aplicables (con su respectiva periodicidad)."
+ },
+ "AA 075": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Documentar los procesos productivos realizados en la planta",
+  "nivel": "Básico",
+  "accion": "La planta mantiene registros de todo el producto seco y tiernizado elaborado.",
+  "mv": "Documento de registro con la siguiente información: • Fecha. • Total de producto seco recolectado al día. • Tipo de secado. • Tiempo de almacenamiento máximo de producto seco. • Total de producto tiernizado elaborado al día. • Total de producto empacado al día. • Tipo de empaque. • Mercado de destino."
+ },
+ "AA 076": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Documentar los procesos productivos realizados en la planta",
+  "nivel": "Básico",
+  "accion": "La planta registra todas las labores productivas realizadas y la persona responsable de su ejecución.",
+  "mv": "Registro con la siguiente información: • Labor. • Fase de la línea de proceso. • Fecha y hora de ejecución. • Persona responsable de su ejecución."
+ },
+ "AA 077": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Documentar los procesos productivos realizados en la planta",
+  "nivel": "Básico",
+  "accion": "La planta registra el consumo de materias primas, ingredientes e insumos utilizados para el procesamiento.",
+  "mv": "Registro diario con la siguiente información: • Volumen y procedencia de la fruta de la fase de producción primaria. • Tipo y cantidad de conservantes utilizados (sorbato de potasio). • Tipo y cantidad de material de embalaje utilizado."
+ },
+ "AA 078": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer un sistema de trazabilidad del producto a lo largo de todas sus etapas de producción",
+  "nivel": "Básico",
+  "accion": "La planta establece políticas y procedimientos documentados para garantizar que todos los ingredientes, auxiliares tecnológicos, productos acabados y envases de los productos (interiores y exteriores) puedan rastrearse desde la producción hasta la distribución, a través de un protocolo de trazabilidad.",
+  "mv": "Protocolo del proceso de trazabilidad en la empresa que cuente con los siguientes aspectos: • Identificación de predio o proveedor de materia prima. • Identificación del tipo de secado. • Calibre. • % de humedad. • Despepitado. • Dosis de conservante adicionado. • Mercado de destino."
+ },
+ "AA 079": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer un sistema de trazabilidad del producto a lo largo de todas sus etapas de producción",
+  "nivel": "Intermedio",
+  "accion": "La planta asegura que sus productos elaborados posean un código (N° de lote), que le permita rastrear la cantidad producida, enviada y desperdiciada; ubicación del material; y fechas de producción y envío.",
+  "mv": "Registro que evidencie la presencia del N° de lote en el producto terminado, ya sea en el paquete o en la etiqueta del producto."
+ },
+ "AA 080": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer protocolos logísticos que faciliten la gestión del proceso productivo",
+  "nivel": "Básico",
+  "accion": "La planta posee un diagrama de flujo del proceso productivo.",
+  "mv": "Registro del diagrama de flujo disponible ya sea en formato físico o digital."
+ },
+ "AA 081": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer protocolos logísticos que faciliten la gestión del proceso productivo",
+  "nivel": "Básico",
+  "accion": "La planta implementa un procedimiento que asegure el adecuado despacho del producto final.",
+  "mv": "Registro con el N° de la guía de despacho que contenga la siguiente información: • Fecha despacho. • Tipo de producto (condición natural o tiernizado). • Calibre. • Tipo de empaque. • Documentación legal del mercado de destino. • Autorización de la autoridad fitosanitaria (SAG), al momento de cargar el contenedor."
+ },
+ "AA 082": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer protocolos logísticos que faciliten la gestión del proceso productivo",
+  "nivel": "Intermedio",
+  "accion": "La planta optimiza el proceso de elaboración del producto final, a través de las siguientes medidas: • Realiza mantención y calibración de los equipos de las líneas de proceso anualmente o según las indicaciones del fabricante, en el caso de que requiera mantención con mayor frecuencia. • Maneja adecuadamente los inventarios de insumos, materias primas y producto terminado.",
+  "mv": "Son válidos los siguientes documentos: • Check listo o registro de labores de mantención ejecutadas en planta. • Inventario actualizado mensualmente."
+ },
+ "AA 083": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Poseer una política de inocuidad para la producción",
+  "nivel": "Fundamental",
+  "accion": "La planta capacita a las personas que trabajan en ella sobre seguridad e higiene de los alimentos basada en el Codex y las regulaciones nacionales aplicables.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 084": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Poseer una política de inocuidad para la producción",
+  "nivel": "Básico",
+  "accion": "La planta utiliza señaléticas para promover sus prácticas sobre higiene e inocuidad.",
+  "mv": "Inspección visual de las señaléticas con las siguientes temáticas: • Procedimientos de limpieza. • Manipulación de alimentos (lavado de manos, contaminación por agentes externos). • Prohibición de labores ante sospecha de enfermedades contagiosas. • Uso de ropa de trabajo adecuada (cofia, calzado protector, delantal, etc.) y libre de accesorios."
+ },
+ "AA 085": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Poseer una política de inocuidad para la producción",
+  "nivel": "Intermedio",
+  "accion": "La planta establece, implementa, documenta y mantiene un sistema de seguridad y calidad alimentaria, para proteger el suministro de alimentos de los peligros biológicos, químicos y físicos, con el fin de evitar la contaminación.",
+  "mv": "Plan de análisis de riesgos, documentado para las materias primas, ingredientes, auxiliares tecnológicos y materiales de envasado que contenga, al menos la siguiente información: • Determinar puntos críticos de control. • Establecer límites críticos. • Establecer procedimientos de monitoreo. • Establecer medidas correctivas. • Establecer procedimientos de comprobación auditables. El plan debe ser revisado, al menos, una vez al año si se producen cambios en el producto o en el proceso."
+ },
+ "AA 086": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Poseer una política de inocuidad para la producción",
+  "nivel": "Avanzado",
+  "accion": "La planta realiza auditorías internas anuales para evaluar el nivel de cumplimiento de su política de inocuidad.",
+  "mv": "Comprobante de auditoría interna que permita verificar que se cumple con los requisitos de inocuidad, al menos, una vez por año."
+ },
+ "AA 087": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Utilizar agua con condiciones microbiológicas adecuadas para la producción",
+  "nivel": "Básico",
+  "accion": "La planta utiliza agua potable cuando esta es un ingrediente del producto final.",
+  "mv": "Registro que acredite la utilización del servicio básico de agua potable en la planta."
+ },
+ "AA 088": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Utilizar agua con condiciones microbiológicas adecuadas para la producción",
+  "nivel": "Avanzado",
+  "accion": "La planta realiza análisis microbiológicos al agua que se encuentra en contacto con el producto, durante su procesamiento.",
+  "mv": "Informe periódicos de análisis con requisitos físicos, químicos, bacteriológicos y de desinfección establecidos en la Norma NCH 409/1."
+ },
+ "AA 089": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Asegurar la adecuada limpieza de espacios, equipos e indumentarias requeridas para la producción",
+  "nivel": "Básico",
+  "accion": "89. La planta se asegura de que sus instalaciones, interiores y exteriores posean una adecuada construcción y limpieza acorde con los requerimientos de seguridad e higiene de los alimentos.",
+  "mv": "Inspección visual del N° de la Resolución Sanitaria con fecha de otorgamiento, entregado por el servicio de salud del ambiente."
+ },
+ "AA 090": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Asegurar la adecuada limpieza de espacios, equipos e indumentarias requeridas para la producción",
+  "nivel": "Básico",
+  "accion": "90. La planta mantiene limpia y en buen estado, la indumentaria utilizada por el personal en contacto directo con el producto.",
+  "mv": "Se consideran válidos alguno siguientes documentos. • Registro de lavado de indumentaria de trabajo en la planta, que evidencie su lavado semanal. • Check list de higiene del personal, donde diariamente se va evaluando la limpieza de la indumentaria entregada. • Convenio o contrato con empresa que se encargue del lavado de los uniformes. • Documento con el procedimiento de lavado entregado a las personas que trabajan en la planta."
+ },
+ "AA 091": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Asegurar la adecuada limpieza de espacios, equipos e indumentarias requeridas para la producción",
+  "nivel": "Intermedio",
+  "accion": "91. La planta asegura adecuados protocolos de limpieza de superficies en contacto directo con el producto elaborado, a través de las siguientes medidas: • Los utensilios destinados a la limpieza de superficies que estén en contacto directo con el producto, son utilizados únicamente con este fin y existe una diferenciación por color con utensilios similares utilizados en otros espacios. • Los productos químicos de limpieza son adecuados para el entorno de producción y no se utilizan productos de limpieza fenólicos o perfumados. • Se utiliza agua potable para la limpieza de equipos en contacto directo con el producto.",
+  "mv": "Protocolo de limpieza de superficies."
+ },
+ "AA 092": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Asegurar la inocuidad de los insumos utilizados",
+  "nivel": "Intermedio",
+  "accion": "La planta se asegura de que los insumos, materias primas e ingredientes utilizados en el proceso productivo, no representen un riesgo para la inocuidad alimentaria.",
+  "mv": "Registro de los insumos que dé cuenta de la siguiente información: • Nombre del producto. • Fecha de compra. • Número de lote y proveedor. • Unidades adquiridas. • Fecha de vencimiento y vida útil."
+ },
+ "AA 093": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Prevenir la contaminación durante el proceso productivo",
+  "nivel": "Básico",
+  "accion": "La planta previene la contaminación de agentes externos.",
+  "mv": "Inspección visual de señaléticas de prohibición de las siguientes acciones: • Prohíbe fumar, comer y beber en áreas designadas para la producción. • Prohíbe la presencia de animales dentro de sus instalaciones."
+ },
+ "AA 094": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Prevenir la contaminación durante el proceso productivo",
+  "nivel": "Básico",
+  "accion": "La planta desarrolla procedimientos para gestionar las dificultades asociadas a enfermedades transmisibles, y quienes trabajan en ella, informan al personal encargado cuando presentan una enfermedad que pueda significar la contaminación del producto final.",
+  "mv": "Procedimiento para gestionar los problemas de salud de quienes trabajan en la empresa, que incluya: • Registro de quienes se han presentado con alguna enfermedad transmisible. • Prohibición de labores ante sospecha de enfermedades contagiosas. • Procedimientos para la protección de las heridas."
+ },
+ "AA 095": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Prevenir la contaminación durante el proceso productivo",
+  "nivel": "Intermedio",
+  "accion": "La planta provee al personal de instalaciones adecuadas para evitar todo agente contaminante antes de ingresar a sus espacios de trabajo, mediante las siguientes medidas: • Vestuarios y baños separados del área de producción. • Estaciones de lavado de manos en todos los puntos de entrada al área de producción. • Áreas segregadas para comer fuera del área de producción. • Zonas para almacenar artículos personales que puedan suponer un riesgo de contaminación para el producto final (ej. relojes, teléfonos, joyería, monedas, medicamentos, entre otros).",
+  "mv": "Inspección visual de instalaciones del personal."
+ },
+ "AA 096": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad de la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta cuenta con una persona encargada o una persona que realiza asesoría financiera.",
+  "mv": "Son válidos alguno de los siguientes documentos: • Contrato de servicios de una persona que realiza asesorías financieras. • Descripción de cargos y CV de la persona encargada del área financiera."
+ },
+ "AA 097": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad de la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta identifica los principales puntos críticos de su producción y busca mejoras para aumentar su productividad.",
+  "mv": "Documento de identificación de puntos críticos dentro de la planta."
+ },
+ "AA 098": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad de la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta evalúa la adopción de nuevas prácticas o tecnologías, considerando su contribución a la productividad.",
+  "mv": "Son válidos alguno de los dos documentos enunciados a continuación: • Documento de evaluación del proyecto que posea al menos propuesta de TIR y VAN y decisión sobre la adopción de la nueva práctica o tecnología. • Registro de procedimiento, diseño y desarrollo del plan de implementación de la nueva tecnología. Adicionalmente, se requiere un listado con las inversiones implementadas, indicando la temática a la que corresponde (agua, energía, residuos, etc.)."
+ },
+ "AA 099": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad de la planta",
+  "nivel": "Básico",
+  "accion": "La planta cuenta con un plan de gestión para su productividad y rentabilidad, que le permite definir indicadores de gestión y asegurar su viabilidad a largo plazo.",
+  "mv": "Documento de planificación que contenga los siguientes puntos: • Presupuesto. • Proyecciones de ventas. • Organigrama y descripción de cargos dentro de la empresa."
+ },
+ "AA 100": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad de la planta",
+  "nivel": "Básico",
+  "accion": "La planta cuenta con un sistema de gestión contable que considera registros de inventario, control de gastos, ingresos y utilidades derivadas del proceso productivo.",
+  "mv": "Documentos de registro de los siguientes aspectos: • Inventario de productos entrantes y salientes. • Registro contable de la empresa."
+ },
+ "AA 101": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad de la planta",
+  "nivel": "Avanzado",
+  "accion": "La planta cuenta con una herramienta de gestión digital que facilita la implementación de medidas y registros.",
+  "mv": "Registro de licencia o suscripción a plataforma digital específica para la gestión agrícola o industrial."
+ },
+ "AA 102": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad de la planta",
+  "nivel": "Avanzado",
+  "accion": "La planta forma parte de una “comunidad de práctica” que le permite realizar una evaluación de cambio tecnológico, en conjunto con otras empresas de la industria a nivel territorial.",
+  "mv": "Acta de reuniones realizadas con la “comunidad de práctica”."
+ },
+ "AA 103": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Gestionar la empresa para garantizar su viabilidad económica y financiera",
+  "nivel": "Intermedio",
+  "accion": "Quienes trabajan como directivos o son tomadores de decisiones, participan en instancias de capacitación que les permiten entender de mejor manera, el comportamiento del mercado de ciruelas deshidratadas.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada) o certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.). Se verifica que al menos una persona atingente al área, haya recibido esta capacitación."
+ },
+ "AA 104": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Gestionar la empresa para garantizar su viabilidad económica y financiera",
+  "nivel": "Avanzado",
+  "accion": "La planta desarrolla una visión empresarial y planifica y decide, en base a información robusta de índole económica y financiera.",
+  "mv": "Registro de planificación estratégica con una vigencia de máximo 5 años que contenga la siguiente información: • Diagnóstico que incorpore un FODA. • Plan de implementación en base a los resultados del FODA, (ventajas competitivas para potenciar fortalezas, evitar debilidades y enfrentar amenazas)."
+ },
+ "AA 105": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Fomentar que las personas que trabajen en la planta tengan acceso a la información de productividad y mercado",
+  "nivel": "Intermedio",
+  "accion": "La planta capacita a las personas que trabajan en ella sobre estrategias de aumento de la productividad, para que puedan identificar los puntos críticos del proceso y conozcan las herramientas de optimización de la producción.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 106": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Fomentar que las personas que trabajen en la planta tengan acceso a la información de productividad y mercado",
+  "nivel": "Avanzado",
+  "accion": "La planta capacita sus directivos y tomadores de decisiones en finanzas, costos de producción y gestión del negocio agrícola.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada) o certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.). Se verifica que al menos una persona atingente al área, haya recibido esta capacitación."
+ },
+ "AA 107": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Evaluar el impacto generado en las comunidades locales",
+  "nivel": "Intermedio",
+  "accion": "La planta identifica los potenciales impactos, positivos o negativos, generados en las comunidades vecinas.",
+  "mv": "Matriz de mapeo de actores con la identificación de los impactos generados con la siguiente información: • Nombre de la organización/institución, actor • Representante o contraparte • Cargo • Contacto • Categoría de actor (empresa, comercio, residentes, servicios locales, etc.). • Ubicación geográfica en el territorio • Relaciones predominantes con la empresa • Nivel de afectación (positiva y negativa) de las operaciones de la empresa"
+ },
+ "AA 108": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Evaluar el impacto generado en las comunidades locales",
+  "nivel": "Avanzado",
+  "accion": "La planta aplica medidas de mitigación para los impactos generados.",
+  "mv": "Matriz con las medidas de mitigación de impactos generados que dé cuenta de la siguiente información: • Efecto. • Acción. • Objetivo (fortalecer, prevenir, mitigar). • Resultado esperado."
+ },
+ "AA 109": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Contribuir al desarrollo local",
+  "nivel": "Avanzado",
+  "accion": "La planta apoya con aportes pecuniarios y no pecuniarios, proyectos o iniciativas que abordan las necesidades y prioridades de la comunidad, con el fin de mejorar la calidad de vida de sus habitantes en temas como: educación, salud, capacitación, saneamiento, problemas ambientales, deporte, infraestructura comunitaria o pública, con acciones de RES u otras.",
+  "mv": "Son válidos cualquiera de los documentos que se proponen a continuación. • Portafolio de evidencia de las actividades realizadas, ej. proyectos realizados, imágenes, registros de convenios, canales de comunicación, minutas. • Documentos que evidencien el tipo de iniciativa, la fecha, la ubicación, los montos y/o las horas profesionales invertidas."
+ },
+ "AA 110": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Contribuir a la economía local",
+  "nivel": "Fundamental",
+  "accion": "La planta contribuye a la economía local, comprando los bienes y servicios, que no son claves para la producción, a personas o empresas locales a nivel provincial. Por ejemplo: materiales de oficina, productos de aseo, alimentación, vestimenta, etc.",
+  "mv": "Son válidos algunos de los siguientes documentos: • Registro de documento tributario que acredite compras a empresas locales. • Existencia de contratos de compra con proveedores locales."
+ },
+ "AA 111": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Contribuir a la economía local",
+  "nivel": "Básico",
+  "accion": "La planta promueve la contratación de personas mediante la difusión de ofertas laborales a los habitantes de la misma provincia, ya sea de trabajo temporal o permanente.",
+  "mv": "Son válidos algunos de los siguientes documentos: • Registro de contratos laborales. • Registro de ofertas laborales en la OMIL local."
+ },
+ "AA 112": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Contribuir a la economía local",
+  "nivel": "Intermedio",
+  "accion": "La planta cuenta con, al menos, un 90% del personal contratado (de manera permanente) de la misma provincia.",
+  "mv": "Registro de contratos identificando a personas de la provincia."
+ },
+ "AA 113": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Mantener un sistema de comunicación efectivo con la comunidad",
+  "nivel": "Fundamental",
+  "accion": "La planta cuenta con canales de comunicación efectivos, para informar a las comunidades locales sobre la faena que podría impactar positiva o negativamente en el entorno o territorio, y otras actividades que se quieran comunicar.",
+  "mv": "Portafolio que registre los canales de comunicación con la comunidad, por ejemplo: acta de reuniones con la JJVV, anuncios en radios locales, publicaciones en el diario mural de la junta de vecinos, mensajes de WhatsApp, etc."
+ },
+ "AA 114": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Mantener un sistema de comunicación efectivo con la comunidad",
+  "nivel": "Intermedio",
+  "accion": "La planta dispone de un mecanismo de gestión de reclamos y sugerencias, a disposición de las comunidades locales, y además, mantiene un registro de las mismas y de cómo se han abordado.",
+  "mv": "Registros del libro de reclamos y sugerencias, además de las soluciones implementadas con: • Nombre • Fecha • Correo electrónico • Teléfono • Reclamo o sugerencia • Encargado de gestionar • Resolución. • Fecha resolución"
+ },
+ "AA 115": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Mantener un sistema de comunicación efectivo con la comunidad",
+  "nivel": "Avanzado",
+  "accion": "La planta cuenta con una persona responsable de coordinar, planificar y ejecutar proyectos de relacionamiento comunitario.",
+  "mv": "Son válidos alguno de los siguientes documentos: • Identificación de la persona encargada o responsable a través del organigrama o la descripción de cargos. • Convenio con la institución que realiza los trabajos comunitarios."
+ },
+ "AA 116": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Disponer de instalaciones adecuadas y seguras para las personas que trabajan en la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta provee a las personas que trabajan en ella, acceso a agua potable suficiente y segura, destinada al consumo humano.",
+  "mv": "Inspección visual de las instalaciones o dispositivos dispensadores de agua potable."
+ },
+ "AA 117": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Disponer de instalaciones adecuadas y seguras para las personas que trabajan en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta proporciona a quienes trabajan en ella, instalaciones que cuenten con las siguientes características. • Servicios higiénicos de uso individual o colectivo. • Espacios de protección del sol y la lluvia. • Instalaciones para cambiarse de ropa y las prendas exteriores de protección. • Comedor o casino. • Áreas designadas para el descanso y las pausas.",
+  "mv": "Inspección visual de servicios higiénicos, espacios de protección para el sol, camarines, comedor o casino y áreas de descanso."
+ },
+ "AA 118": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta mantiene un registro mensual de la gestión de la seguridad de las personas que trabajan en ella.",
+  "mv": "Registro actualizado de manera mensual con la siguiente información. • Número mensual diferenciado por sexo. • Número mensual de incidentes y accidentes. • Número mensual de casos con enfermedades profesionales. • Total mensual de días perdidos. • Tasa de accidentabilidad. • Licencias médicas."
+ },
+ "AA 119": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta cuenta con un protocolo en caso de emergencia (sismos, incendios, fuga de gases, otros) o accidentes laborales. Los detalles del protocolo están claramente exhibidos en lugares accesibles y visibles.",
+  "mv": "Inspección visual señalética con protocolo de emergencias o accidentes que contiene la siguiente información. • Teléfonos y contactos de emergencia. • Medidas básicas de primeros auxilios. • Zonas de seguridad dentro de la planta. • Mapas de ubicación de extintores y botiquines. • Vías de evacuación."
+ },
+ "AA 120": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en la planta",
+  "nivel": "Básico",
+  "accion": "La planta cuenta con una persona encargada del programa de prevención de riesgos (prevencionista de riesgos) o un convenio con una mutual que desarrolle esta labor.",
+  "mv": "Contrato con profesional prevencionista o convenio con la Mutual de seguridad."
+ },
+ "AA 121": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta implementa un programa de gestión de riesgos para quienes trabajan en ella.",
+  "mv": "Documento con el programa de prevención de riesgos que contemple los siguientes aspectos: • Identificación y evaluación de riesgos. • Medidas preventivas y de protección. • Vigilancia de la salud. • Investigación de accidentes e incidentes."
+ },
+ "AA 122": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en la planta",
+  "nivel": "Avanzado",
+  "accion": "La planta somete a exámenes médicos, al menos una vez al año, a quienes trabajan en ella y que normalmente estén expuestos a labores que puedan generar un riesgo para su salud (ruido, sustancias tóxicas, entre otros) y entrega los resultados a cada uno.",
+  "mv": "Registro de que las personas que están expuestas a labores de riesgo, cuentan con exámenes médicos vigentes (al menos de un año). Por ejemplo: ruido, oído medio, control de sangre preventivo, examen general, examen de colinesterasa, etc. (mutual)."
+ },
+ "AA 123": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar por el bienestar social y laboral de las personas que trabajan en la planta",
+  "nivel": "Fundamental",
+  "accion": "La planta no discrimina por raza, color, religión, género, nacionalidad, tendencia política, etc.",
+  "mv": "Documento con el reglamento interno de la planta. Lista de trabajadores/as identificados por sexo."
+ },
+ "AA 124": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar por el bienestar social y laboral de las personas que trabajan en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta capacita a quienes trabajan en ella sobre cómo desempeñar las labores asociadas a su trabajo, buscando la eficiencia en su desempeño.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 125": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar por el bienestar social y laboral de las personas que trabajan en la planta",
+  "nivel": "Avanzado",
+  "accion": "La planta cuenta con un programa para promover estilos de vida saludables y prevenir dependencias a drogas y alcohol.",
+  "mv": "Portafolio de evidencia que respalde la existencia del programa con listado de potenciales instituciones u organizaciones de apoyo, públicas o privadas."
+ },
+ "AA 126": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Respetar los derechos laborales de las personas que trabajan en la planta",
+  "nivel": "Básico",
+  "accion": "La planta se asegura de que las personas que trabajan en ella, conozcan sus derechos y obligaciones, relacionados con la situación contractual con la empresa y las leyes laborales vigentes.",
+  "mv": "Son válidos alguno de los siguientes documentos: • Registro de información entregada a través de correos electrónicos, folletos, publicaciones en diarios murales y/o registros de capacitaciones asociadas al tema. • Registro de entrega del Reglamento interno. • Registro de inducciones o documento con instrucciones respecto al puesto de trabajo."
+ },
+ "AA 127": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Respetar los derechos laborales de las personas que trabajan en la planta",
+  "nivel": "Básico",
+  "accion": "La planta respeta y adhiere a las leyes aplicables a los derechos laborales de las personas que trabajan en ella.",
+  "mv": "Política o procedimientos de contratación de la planta, que indique lo siguiente. • No supera el máximo de horas diarias y semanales permitidas. • No supera el máximo de horas extras permitidas. • Provee de pausas diarias para el almuerzo y el descanso. • Otorga tiempo libre pagado por vacaciones y licencia por enfermedad. • Posibilita la desvinculación voluntaria en casos específicos. • Emplea prácticas de pago transparentes y justas."
+ },
+ "AA 128": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Respetar los derechos laborales de las personas que trabajan en la planta",
+  "nivel": "Intermedio",
+  "accion": "La planta promueve la equidad de género en su política de contrataciones, evidenciando que no existe solicitud específica de género en sus ofertas laborales.",
+  "mv": "Son válidos alguno de los siguientes documentos: • Política o procedimientos de contratación de la planta. • Registro de ofertas laborales del último año en las que se evidencie que no se solicita que la persona a contratar pertenezca a un género en específico."
+ },
+ "AA 129": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercado de destino a nivel internacional",
+  "nivel": "Fundamental",
+  "accion": "La planta identifica las legislaciones relacionadas con las obligaciones prioritarias para la empresa, a través de una matriz de riesgos.",
+  "mv": "Matriz con listado de normativas aplicables para la planta que incluya la siguiente información: • Tipo de documento (ley, resolución, decreto, norma, etc.) y entidad o Ministerio. • Identificación de normativas prioritarias. • Acciones requeridas para verificar y asegurar su cumplimiento. Adicionalmente, se debe mantener al menos una copia de las normativas prioritarias, ya sea como documento impreso y/o registro digital."
+ },
+ "AA 130": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercado de destino a nivel internacional",
+  "nivel": "Fundamental",
+  "accion": "Las personas que trabajan en la planta han sido capacitadas y conocen la legislación aplicable a sus labores.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "AA 131": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercado de destino a nivel internacional",
+  "nivel": "Básico",
+  "accion": "La planta guarda los registros que acrediten el cumplimiento de las diferentes legislaciones o certificaciones durante un plazo de al menos 5 años.",
+  "mv": "Inspección visual de documentos de registro archivados o documentos digitales almacenados."
+ },
+ "AA 132": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercado de destino a nivel internacional",
+  "nivel": "Básico",
+  "accion": "La planta demuestra un título o contrato de uso de tierra claro en conformidad con las prácticas, uso de suelo y legislaciones nacionales.",
+  "mv": "Son válidos los siguientes documentos de validación. • Escritura de propiedad que verifique el uso de suelo. • Copia de instrumentos de ordenamiento territorial que verifiquen uso de suelo."
+ },
+ "AA 133": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercado de destino a nivel internacional",
+  "nivel": "Básico",
+  "accion": "La planta posee Derechos de Aprovechamiento de Aguas inscritos en conformidad con las legislaciones nacionales.",
+  "mv": "Son válidos los siguientes documentos de validación. • Registro en el Conservador de Bienes Raíces (CBR). • Catastro Público de Aguas de la DGA. • Comprobante de acciones de aguas"
+ },
+ "AA 134": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercado de destino a nivel internacional",
+  "nivel": "Avanzado",
+  "accion": "La planta mantiene un diálogo permanente con las instituciones asociadas a las entidades legisladoras a nivel territorial o regional.",
+  "mv": "Son válidos los siguientes documentos: • Actas de reuniones realizadas a través de la Ley de Lobby. • Actas de reuniones con entidades legisladoras."
+ },
+ "AA 135": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercado de destino a nivel internacional",
+  "nivel": "Avanzado",
+  "accion": "Las empresas realizan un autodiagnóstico de conducta empresarial responsable y debida diligencia en derechos humanos.",
+  "mv": "Autodiagnóstico ejecutado con alguna de las herramientas de autoevaluación de debida diligencia de derechos humanos."
+ },
+ "PP 001": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio registra mensualmente el consumo de agua de riego especificando la fuente de abastecimiento y su uso. El registro contiene las siguiente información: \n- Fecha.\n- Cultivo.\n- Sector o cuartel.\n- Fuente de abastecimiento disponible (canal, pozo, suministro de agua potable, red aljibe, etc.).\n- Superficie.\n- Tiempo de riego (opcional).\n- Días de riego en la semana (opcional).\n- Volumen de agua aplicado en el día (litros).\n- Volumen de agua acumulado (litros).",
+  "mv": "Registro mensual de consumo de agua de riego con el contenido detallado en la acción."
+ },
+ "PP 002": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con tomadores de decisiones capacitados en el ámbito hídrico, para apoyar la definición de estrategias para la gestión eficiente del recurso. Se requiere que al menos una persona, tomadora de decisiones, haya recibido esta capacitación en los últimos 3 años. Se sugiere curso disponible en www.ciruelacertificada.cl",
+  "mv": "Certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.), con una antigüedad  no mayor a 3 años."
+ },
+ "PP 003": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en el predio",
+  "nivel": "Básico",
+  "accion": "El predio cuenta con un mapa o plano con la ubicación de las fuentes de aprovisionamiento de agua (para riego, consumo humano y otros) dentro de la explotación.",
+  "mv": "Mapa o plano de las fuentes de agua, ya sea en digital o en papel."
+ },
+ "PP 004": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio capacita, con personal propio o externo, a las personas que trabajan en la ejecución de acciones asociadas al riego, en acciones operativas que permitan la gestión eficiente del recurso. Se requiere que al menos una persona atingente al área, haya recibido alguna capacitación en los últimos 3 años.",
+  "mv": "Registro de la ejecución de capacitaciones (lista de asistencia, estadísticas consolidadadas de asistencia desagregadas por sexo, tema expuesto, persona u organización/institución que expone, material expuesto, registro fotográfico y certificación entregada, en caso de haberla)."
+ },
+ "PP 005": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con plano de la infraestructura de riego asociada a su producción, en formato digital o físico, indicando tipo de riego utilizado y la superficie regada asociada.",
+  "mv": "Plano de infraestructura de riego que indique el tipo de riego utilizado y la superficie regada, en formato digital o físico."
+ },
+ "PP 006": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar los recursos hídricos en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con un plan de gestión del recurso hídrico para riego agrícola que considere la siguiente información:\n- Indicador de eficiencia del uso del agua utilizada (litros de agua/kg ciruela fresca).\n- Meta de eficiencia del uso del agua en base al indicador propuesto en el punto anterior.\n- Identificación de procesos o actividades que representan un mayor consumo de agua para riego \n- Acciones propuestas a implementar para mejorar el indicador, incluyendo el plazo de ejecución, la estimación de costos de inversión y la persona o área responsable de su implementación. \nEn caso que el plan de gestión se elabore a través de servicio externo, se sugiere revisar Términos de Referencia de contratación de servicio, disponible en www.ciruelacertificada.cl",
+  "mv": "Plan de gestión del recurso hídrico con el contenido detallado en la acción."
+ },
+ "PP 007": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar las pérdidas de agua potable y de riego en el predio",
+  "nivel": "Básico",
+  "accion": "El predio monitorea regularmente las fugas o roturas dentro de su infraestructura hídrica a través de un calendario de monitoreo que considere la siguiente información:\n- Fecha de ejecución.\n- Equipo o infraestructura.\n- Detalle de labores.\n- Responsable.\n- Tipo de evento detectado.",
+  "mv": "Calendario y registro de monitoreo con el contenido detallado en la acción."
+ },
+ "PP 008": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar las pérdidas de agua potable y de riego en el predio",
+  "nivel": "Básico",
+  "accion": "El predio cuenta con señalética orientada al ahorro de agua en lugares críticos (infraestructura de riego, servicios higiénicos y de alimentación, zona de lavado de equipos y maquinarias).",
+  "mv": "Inspección visual de señaléticas de ahorro de agua en lugares críticos."
+ },
+ "PP 009": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Minimizar los riesgos de contaminación de aguas",
+  "nivel": "Básico",
+  "accion": "El predio minimiza los riesgos de contaminación de aguas superficiales y subterráneas, realizando mantenciones periódicas a equipos e infraestructura que pudiesen emitir contaminantes que van al agua, y desarrollando actividades potencialmente contaminantes alejadas de fuentes de agua (por ej. lavado de maquinaria, zonas de servicios higiénicos, entre otras). Las mantenciones de equipos e infraestructura consideran: \n• Fecha\n• Tipo de evento \n• Equipo\n• Detalle labores\n• Responsable\nEn el caso de que las mantenciones las realice una empresa externa, esta debe entregar un comprobante o informe que dé cuenta de la información anterior.",
+  "mv": "Registro de mantención de equipos e infraestructura según lo detallado en la acción. Inspección visual de fuentes y cursos de agua y de lugares de realización de actividades potencialmente contaminantes."
+ },
+ "PP 010": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar eficientemente el riego en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio realiza mediciones de humedad de suelo mediante la realización de calicatas en sectores homogéneos de cultivos, registrando los siguientes aspectos:\n- Número o código calicata.\n- Fecha de ejecución de calicata.\n- Sector, cuartel o georreferenciación.\n- Profundidad.\n- Textura (ej.: arcillosa, arenosa, etc.).\n- Resultados obtenidos (nivel de humedad).\n\nLos registros se realizan con la siguiente periodicidad:\n- Quincenalmente: desde el inicio de la temporada de riego hasta el fin de noviembre.\n- Semanalmente: desde diciembre hasta el fin de marzo.",
+  "mv": "Registros según lo detallado en la acción."
+ },
+ "PP 011": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar eficientemente el riego en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio utiliza riego tecnificado y cuenta con un plano, en formato digital o físico, de la infraestructura asociada y las hectáreas con riego tecnificado.",
+  "mv": "Inspección visual de la infraestructura de riego tecnificado. Plano de la infraestructura y superficie con riego tecnificado."
+ },
+ "PP 012": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar eficientemente el riego en el predio",
+  "nivel": "Básico",
+  "accion": "El predio realiza mantención a los equipos de riego y fertirriego de manera periódica, al menos una vez en la temporada o con mayor frecuencia si el fabricante lo recomienda, generando un registro con la siguiente información:\n• Fecha\n• Tipo de evento \n• Equipo o infraestructura\n• Detalle labores\n• Responsable\nEn el caso de que las mantenciones las realice una empresa externa, esta debe entregar un comprobante o informe que dé cuenta de lo anterior.",
+  "mv": "Registro de mantención de los equipos de riego y fertirriego con la información detallada en la acción, o comprobante o informe de empresa externa a cargo de las mantenciones."
+ },
+ "PP 013": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar eficientemente el riego en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio calcula el balance hídrico, para programar un riego que permita reponer el déficit de humedad el suelo. El cálculo del balance hídrico considera: \n- Fecha de evaluación.\n- Coeficiente de cultivo (Kc).\n- Sector, cuartel o zona homogénea de cultivo.\n- Evapotranspiración de referencia (ETo) indicando la fuente de obtención de la información (estación meteorológica propia o datos de portales como http://agroclima.cl/ o https://agrometeorologia.cl/ ).\n- Volumen de agua aplicada en el último riego.\n- Precipitación efectiva en el periodo.\n- Evapotranspiración de cultivo (ETc) \n- Balance hídrico (diferencia entre aportes y pérdidas de agua).",
+  "mv": "Informe o planilla con cálculo de balance hídrico que considere la información detallada en la acción. La fecha de evaluación deberá tener una antigüedad máxima de 3 años."
+ },
+ "PP 014": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar eficientemente el riego en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio evalúa la uniformidad de la distribución del sistema de riego tecnificado, al menos una vez por temporada, e implementa medidas de corrección cuando el coeficiente de uniformidad es menor a 85%. La evaluación de uniformidad contempla los siguientes puntos:\n- Fecha de evaluación.\n- Equipo de riego.\n- Sector o cuartel.\n- Caudal del equipo (litros/horas).\n- Porcentaje de uniformidad.\n- Desempeño (excelente, bueno, crítico, inaceptable).\n- Medidas correctivas implementadas de ser necesarias.\n- Responsable.\nEn el caso de que esta labor la realice una empresa externa, debe existir un contrato y un informe que acredite la realización de las actividades ejecutadas.",
+  "mv": "Registro de la evaluación de la uniformidad de distribución que considere los puntos detallados en la acción."
+ },
+ "PP 015": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar eficientemente el riego en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio utiliza riego tecnificado subterráneo y cuenta con un plano, en formato digital o físico, de la infraestructura asociada y las hectáreas regadas.",
+  "mv": "Inspección visual de las tecnologías de riego tecnificado subterráneo utilizadas. Plano en formato digital o físico de la infraestructura asociada y hectáreas regadas."
+ },
+ "PP 016": {
+  "dimension": "Ambiente",
+  "tema": "Agua",
+  "bp": "Gestionar eficientemente el riego en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio realiza mediciones de humedad al suelo o al potencial hídrico de la planta, mediante la utilización de sondas o tecnologías de detección de humedad como por ejemplo: tensiómetros o bombas de presión. La medición considera:\n- Fecha de realización.\n- Equipo.\n- Humedad de suelo o potencial hídrico de la planta, según datos arrojados por el instrumento.\n- Observaciones.\n- Responsable.\nEn el caso de que esta labor la realice una empresa externa, debe existir un contrato e informe que acredite la realización de las mediciones.",
+  "mv": "Registro de medición de humedad del suelo o de potencial hídrico de la planta según el detalle de la acción."
+ },
+ "PP 017": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Planificar el huerto y gestionar el suelo de manera sustentable en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio analiza las características físicas del suelo a través de calicatas. El análisis debe contemplar: \n- Número o código.\n- Fecha de ejecución.\n- Sector, cuartel o georreferenciación.\n- Profundidad.\n- Textura (ej.: arcillosa, arenosa, etc.).\n- Resultados obtenidos con respecto a las características del suelo.\nSe sugiere como referencia la Pauta para Estudios de Suelos del Servicio Agrícola Ganadero, disponible en www.ciruelacertificada.cl",
+  "mv": "Registro con análisis de características físicas del suelo según lo detallado en la acción."
+ },
+ "PP 018": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Planificar el huerto y gestionar el suelo de manera sustentable en el predio",
+  "nivel": "Básico",
+  "accion": "El predio realiza un diagnóstico predial para identificar los distintos tipos de suelo y su susceptibilidad a la erosión. El diagnóstico incluye:\n- Mapa o diagrama del predio diferenciando entre distintos tipos de suelo.\n- Identificación de los perfiles de suelo y su riesgo de erosión.\n- Identificación de las áreas particularmente susceptibles a erosión.",
+  "mv": "Documento de diagnóstico con el contenido detallado en la acción."
+ },
+ "PP 019": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Prevenir y mitigar la degradación de los suelos en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio minimiza los riesgos de contaminación del suelo realizando mantenciones periódicas a sus equipos de aplicación de agroquímicos. Las mantenciones consideran: \n• Fecha\n• Tipo de evento \n• Equipo\n• Detalle labores\n• Responsable\nEn el caso de que las mantenciones las realice una empresa externa, esta debe entregar un comprobante o informe que dé cuenta de la información anterior.",
+  "mv": "Registro de mantención de equipos según lo detallado en la acción."
+ },
+ "PP 020": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Prevenir y mitigar la degradación de los suelos en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio mantiene o mejora las coberturas vegetales en los suelos, para evitar que queden descubiertos, contemplando al menos un 50% de cobertura vegetal, natural o sembrada, en la entre hilera.",
+  "mv": "Inspección visual de cuarteles, verificando existencia de cobertura vegetal natural o sembrada."
+ },
+ "PP 021": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Prevenir y mitigar la degradación de los suelos en el predio",
+  "nivel": "Básico",
+  "accion": "El predio no quema restos de poda ni la vegetación del lugar para despejar las zonas productivas. Además, cuenta con señalética que prohibe las quemas.",
+  "mv": "Inspección visual verificando: (1) que no haya signos visibles de quema en el predio y (2) que se cuente con la señalética indicada en la acción."
+ },
+ "PP 022": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Prevenir y mitigar la degradación de los suelos en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio implementa labores de campo para mejorar la estructura del suelo y evitar su compactación con medidas como por ejemplo:\n- Incrementar el porcentaje de materia orgánica en el suelo, a través de enmiendas orgánicas.\n- Incorporar restos de poda.\n- Incorporar rastrojos.\n- Utilizar rotura vertical (subsolado).\n- Realizar enmiendas cálcicas (yeso).\nLas labores son registradas indicando:\n• Fecha y hora.\n• Sector o cuartel.\n• Labor ejecutada y superficie intervenida.\n• Objetivo de la labor.\n• Responsable.\n• Hallazgos (opcional).",
+  "mv": "Registro de labores de campo con el contenido detallado en la acción."
+ },
+ "PP 023": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Prevenir y mitigar la degradación de los suelos en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio identifica las zonas compactadas dentro de su explotación, a través de un mapa o plano, y  prioriza las zonas a intervenir. La determinación de zonas compactadas se realiza a través de penetrómetro, perfil de suelo a través calicatas, medición de densidad aparente o velocidad de infiltración.",
+  "mv": "Mapa o plano con identificación de zonas compactadas y priorización para intervenir."
+ },
+ "PP 024": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Prevenir y mitigar la degradación de los suelos en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con tomadores de decisiones capacitados sobre la degradación de suelos y técnicas de cultivo que evitan la erosión. Se requiere que al menos una persona tomadora de decisiones, haya recibido esta capacitación en los últimos 3 años. Se sugiere curso disponible en www.ciruelacertificada.cl",
+  "mv": "Certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.), con una antigüedad no mayor a 3 años."
+ },
+ "PP 025": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Prevenir y mitigar la degradación de los suelos en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio aplica medidas para evitar la erosión por escurrimiento tanto antes, durante y después de la plantación. Las medidas a implementar debe ser alguna(s) de las que se detallan a continuación: \n- Usar sistemas de riego localizado.\n- Plantar árboles en el borde de las zonas de pendiente.\n- Utilizar zanjas de infiltración.\n- Plantar en curvas de nivel.",
+  "mv": "Inspección visual verificando que exista alguna de las medidas detalladas en la acción."
+ },
+ "PP 026": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Prevenir y mitigar la degradación de los suelos en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio protege el suelo y el área de cultivo frente al viento y las pendientes, estableciendo alguna(s) de las siguientes medidas: \n- Se plantan especies vegetales que sirven como corta vientos.\n- Se usa la vegetación nativa y/o natural, en taludes y bordes de canales.",
+  "mv": "Inspección visual de cuarteles, verificando que exista alguna de las medidas detalladas en la acción."
+ },
+ "PP 027": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Prevenir y mitigar la degradación de los suelos en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con un protocolo de medidas de mínima labranza para no alterar la condición del suelo y lo implementa.",
+  "mv": "Protocolo con medidas de mínima labranza. Registro de implementación de medidas del protocolo."
+ },
+ "PP 028": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Gestionar la fertilización del predio de manera sustentable",
+  "nivel": "Fundamental",
+  "accion": "El predio realiza cada 3 años, un análisis del suelo por cuartel o zona homogénea de manejo, para controlar los cambios en su estado. El análisis debe contener:\n- Análisis químico.\n- Conductividad eléctrica y CIC.\n- Bases de intercambio.\n- Materia orgánica.",
+  "mv": "Informe con resultados de análisis de suelo por cuartel o zona homogénea de manejo, realizado cada 3 años, con la información detallada en la acción."
+ },
+ "PP 029": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Gestionar la fertilización del predio de manera sustentable",
+  "nivel": "Fundamental",
+  "accion": "El predio aplica los fertilizantes de forma parcializada durante la temporada y teniendo en cuenta el estado fenológico del cultivo, registrando los siguientes datos:\n- Fecha y hora de la aplicación.\n- Sector o cuartel.\n- Nombre del producto.\n- Composición (P2O5, K2O o N y otros nutrientes). \n- Identificación de fertilizantes nitrogenados.\n- Dosis.\n- Método de aplicación.\n- Responsable",
+  "mv": "Registro de aplicaciones de fertilizantes durante la temporada que cuente con los datos detallados en la acción."
+ },
+ "PP 030": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Gestionar la fertilización del predio de manera sustentable",
+  "nivel": "Intermedio",
+  "accion": "El predio cuenta con un plan de fertilización actualizado, basado en las características del suelo y la demanda del cultivo. Dicho plan debe ser actualizado cada temporada y debe contener la siguiente información:\n- Registro de los manejos históricos en términos de rendimientos.\n- Muestreo de suelos.\n- Evaluación del nivel nutricional de las plantas y del suelo post fertilización.\n- Definición de un programa de fertilización para la temporada.\n- Medidas de monitoreo y estrategias de corrección para las siguientes temporadas.",
+  "mv": "Plan de fertilización actualizado con la información detallada en la acción."
+ },
+ "PP 031": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Gestionar la fertilización del predio de manera sustentable",
+  "nivel": "Intermedio",
+  "accion": "El predio utiliza fertilizantes que se aplican en pequeñas proporciones a través de sistemas de fertirriego, según los periodos de demanda correspondientes, registrando los siguientes datos:\n- Fecha y hora de la aplicación.\n- Sector o cuartel (superficie)\n- Nombre del producto.\n- Composición (P2O5, K2O o N y otros nutrientes). \n- Identificación de fertilizantes nitrogenados.\n- Dosis.\n- Método de aplicación.\n- Responsable",
+  "mv": "Registro de aplicaciones de fertilizantes a través de fertirriego con los datos detallados en la acción."
+ },
+ "PP 032": {
+  "dimension": "Ambiente",
+  "tema": "Suelo",
+  "bp": "Gestionar la fertilización del predio de manera sustentable",
+  "nivel": "Intermedio",
+  "accion": "El predio utiliza métodos de fertilización orgánica como abono, por ejemplo: compost, ácidos húmicos, entre otros, y registra su aplicación en la temporada, considerando la siguiente información: \n- Fecha y hora de aplicación.\n- Sector o cuartel (superficie)\n- Nombre del producto.\n- Composición (P2O5, K2O o N y otros nutrientes). \n- Composición orgánica.\n- Identificación de fertilizantes nitrogenados.\n- Dosis.\n- Método de aplicación.\n- Responsable.",
+  "mv": "Registro de aplicaciones de fertilizantes orgánicos durante la temporada con los datos detallados en la acción."
+ },
+ "PP 033": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Establecer un ordenamiento territorial y línea base",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con un diagnóstico donde se identifica la biodiversidad existente y las áreas de alto valor ecológico, dentro de su propiedad, detallando los siguientes puntos:\n- Mapa con identificación de áreas con alto valor ecológico (ej.: lagos, estanques y cursos de agua, corredores de vida silvestre, humedales, pastizales ricos en especies, etc.).\n- Catastro de la biodiversidad existente en el lugar, por ejemplo: principales especies presentes en el entorno (aves, mamíferos, árboles, insectos, hongos, arbustos, etc.).\n- Registro fotográfico, con georreferenciación, que dé cuenta del estado inicial de las zonas de vegetación natural de conectividad, márgenes y límites de los campos, zonas de amortiguamiento ribereño y áreas de conservación con vegetación nativa.",
+  "mv": "Diagnóstico de la biodiversidad con los puntos detallados en la acción."
+ },
+ "PP 034": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Establecer un ordenamiento territorial y línea base",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con un plan para la gestión de la biodiversidad que propone medidas de conservación, utilizando información del diagnóstico realizado previamente (acción 33). Este plan debe tener una fecha de elaboración inferior a 5 años y considerar los siguientes contenidos y medidas:\n- Línea base de sitios de interés.\n- Priorización y definición de objetivos de conservación.\n- Medidas de conectividad, restauración y rehabilitación.\n- Medidas de manejo y control de especies exóticas.\n- Plan de ordenamiento predial.",
+  "mv": "Plan de gestión de la biodiversidad con los contenidos y medidas detallados en la acción."
+ },
+ "PP 035": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Fomentar la participación en acciones para la protección y conservación de ecosistemas, hábitats o especies",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con tomadores de decisiones capacitados en materia de biodiversidad. Se requiere que al menos una persona, tomadora de decisiones, haya recibido esta capacitación en los últimos 3 años. Se sugiere curso disponible en www.ciruelacertificada.cl",
+  "mv": "Certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.), con una antigüedad no mayor a 3 años."
+ },
+ "PP 036": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Fomentar la participación en acciones para la protección y conservación de ecosistemas, hábitats o especies",
+  "nivel": "Avanzado",
+  "accion": "El predio capacita, con personal propio o externo, al personal permanente respecto del plan de gestión de la biodiversidad elaborado anteriormente (acción 34). Se requiere que la capacitación se haya realizado en los últimos 3 años.",
+  "mv": "Registro de la ejecución de capacitaciones (lista de asistencia, estadísticas consolidadadas de asistencia desagregadas por sexo, tema expuesto, persona u organización/institución que expone, material expuesto, registro fotográfico y certificación entregada, en caso de haberla), con una antiguedad no mayor a 3 años."
+ },
+ "PP 037": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Fomentar la participación en acciones para la protección y conservación de ecosistemas, hábitats o especies",
+  "nivel": "Intermedio",
+  "accion": "El predio mantiene un diálogo permanente con las empresas relacionadas al rubro agrícola del territorio, con el objetivo de implementar en conjunto, medidas de conservación que les permitan tener un plan asociativo de gestión de biodiversidad. Las instancias de diálogo deberán haber sido realizadas en los últimos 3 años.",
+  "mv": "Actas de reuniones, de mesas de trabajo o similares, con empresas del territorio, que den cuenta de un diálogo para establecer un plan asociativo para la gestión de biodiversidad."
+ },
+ "PP 038": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Básico",
+  "accion": "El predio establece un protocolo de gestión y conservación de biodiversidad para los límites de los campos, que contiene medidas concretas para proteger especies y ecosistemas nativos.",
+  "mv": "Protocolo de gestión y conservación de biodiversidad con las medidas seleccionadas."
+ },
+ "PP 039": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Básico",
+  "accion": "El predio mantiene la conectividad entre zonas de vegetación, potenciando su complejidad estructural, a través de cercos vivos, corredores biológicos, franjas ribereñas, entre otras.",
+  "mv": "Inspección visual de la existencia de conectividad entre zonas de vegetación, a través de las medidas indicadas en la acción, o similares."
+ },
+ "PP 040": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Básico",
+  "accion": "El predio protege las zonas de amortiguamiento ribereño, dentro de su propiedad, en caso de encontrarse a menos de 50 metros de un cuerpo de agua o ecosistema acuático. Los márgenes ribereños o franjas de amortiguación deben ser mayores a 5 metros en el caso de cursos de agua, y mayores a 10 metros en el caso de manantiales y cuerpos de agua.",
+  "mv": "Inspección visual de márgenes o franjas de amortiguación, verificando que se cumplan las condiciones detalladas en la acción."
+ },
+ "PP 041": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Intermedio",
+  "accion": "El predio identifica y monitorea las especies exóticas invasoras, generando un registro con la siguiente información:\n- Fecha del hallazgo.\n- Nombre de la especie.\n- Ubicación.\n- N° de individuos visualizados.\n- Daño provocado.\n- Medidas de mitigación.",
+  "mv": "Registro de monitoreo de especies exóticas invasoras con el contenido indicado en la acción."
+ },
+ "PP 042": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Intermedio",
+  "accion": "El predio mantiene áreas de conservación con vegetación nativa.",
+  "mv": "Son válidos los siguientes documentos:\n- Mapas comparativos que identifiquen zonas con vegetación nativa.\n- Registro del comparativo de las fotografías de estado inicial con respecto a la situación actual.\nEn ambos casos la comparación debe reflejar una comparación entre el año presente y 2 o más años anteriores al presente."
+ },
+ "PP 043": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Intermedio",
+  "accion": "El predio implementa las siguientes señaléticas para proteger especies de fauna silvestre:\n- No cazar, matar, pescar o recolectar animales con prohibición según la legislación.\n- No retener la vida silvestre en cautiverio.\n- No realizar labores de limpieza de zanjas o poda de corta vientos en época de anidación de aves.\n- Limitar el libre movimiento de animales domésticos en áreas de producción.\n- Señalética con protocolo de acción en el caso de encontrar una especie nativa herida.",
+  "mv": "Inspección visual de señaléticas indicadas en la acción."
+ },
+ "PP 044": {
+  "dimension": "Ambiente",
+  "tema": "Biodiversidad",
+  "bp": "Implementar sistemas, programas o acciones para el manejo, protección y mantención de ecosistemas, especies y hábitats",
+  "nivel": "Avanzado",
+  "accion": "El predio implementa zonas de reforestación o replantación, en caso de ser requerida la remoción de árboles dentro de la misma explotación. Para ello considera, al menos, los siguientes lineamientos:\n- Realización de reforestación con especies nativas de bajo requerimiento hídrico y propias de la zona geográfica.\n- Medidas de cuidado de árboles reforestados.",
+  "mv": "Inspección visual de zonas de reforestación o replantación según lo especificado en la acción."
+ },
+ "PP 045": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Disminuir el impacto ambiental de los agroquímicos",
+  "nivel": "Intermedio",
+  "accion": "El predio monitorea plagas, enfermedades y malezas, para determinar el tipo de intervención a realizar, registrando mensualmente la siguiente información:\n- Fecha del hallazgo.\n- Nombre de la especie.\n- Ubicación.\n- N° de individuos visualizados.\n- Daño provocado.\n- Umbral de daño máximo.\n- Medidas de control.\nEl monitoreo debe reflejar al menos los últimos 12 meses.",
+  "mv": "Registro mensual de monitoreo de plagas con el contenido detallado en la acción."
+ },
+ "PP 046": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Disminuir el impacto ambiental de los agroquímicos",
+  "nivel": "Intermedio",
+  "accion": "El predio posee un protocolo de manejo de plagas, enfermedades y malezas, que debe estar asociado al monitoreo realizado (acción 48). El protocolo debe contener:\n- umbral de daño máximo para las plagas, enfermedades y malezas más comunes.\n- aplicaciones a efectuar una vez superado el umbral de daño definido.",
+  "mv": "Protocolo de manejo de plagas con el contenido detallado en la acción."
+ },
+ "PP 047": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Disminuir el impacto ambiental de los agroquímicos",
+  "nivel": "Intermedio",
+  "accion": "El predio selecciona los productos agroquímicos en base a su impacto ambiental, prefiriendo aquellos que generen menor impacto (etiqueta verde o azul según lo definido por el SAG) y generando un registro de su aplicación con el siguiente contenido: \n- Fecha y hora.\n- Sector o cuartel y superficie de aplicación.\n- Nombre del producto.\n- Color de la etiqueta (según colores definidos por el SAG).\n- Ingrediente activo.\n- Dosis.\n- Método de aplicación.\n- Objetivo de la aplicación.\n- Período de carencia y de reingreso.\n- Responsable.",
+  "mv": "Registro actualizado de aplicaciones con el contenido detallado en la acción."
+ },
+ "PP 048": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Disminuir el impacto ambiental de los agroquímicos",
+  "nivel": "Avanzado",
+  "accion": "El predio utiliza y registra la aplicación de productos agroquímicos con el menor impacto para la aplicación correspondiente. Se entienden como productos con el menor impacto a aquellos que poseen el menor puntaje del coeficiente de impacto ambiental, o EIQ por sus siglas en inglés, para el tipo de aplicación, en base a la lista de agroquímicos con autorización vigente del SAG para ciruelo. En el sitio www.ciruelacertificada.cl se encuentra disponible una planilla para el registro de agroquímicos que calcula de manera automática el índice EIQ para cada producto agroquímico autorizado por el SAG para ciruelo.",
+  "mv": "Registro de pesticidas utilizados durante la temporada, incluyendo el puntaje del EIQ de cada uno de ellos. Se debe verificar que se haya utilizado el producto con menor puntaje para el tipo de aplicación, en base a la lista de agroquímicos con autorización vigente SAG para ciruelo."
+ },
+ "PP 049": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Disminuir el impacto ambiental de los agroquímicos",
+  "nivel": "Intermedio",
+  "accion": "El predio mantiene un inventario actualizado de la existencia de productos agroquímicos, con su respectiva etiqueta, en la zona de almacenamiento y lo actualiza al menos una vez por temporada. El inventario contiene la siguiente información:\n- Nombre del producto.\n- Fecha de compra.\n- Número de lote y proveedor.\n- Unidades adquiridas.\n- Volumen utilizado.\n- Fecha de caducidad o vencimiento.\n- Ingrediente activo.\n- Color de la etiqueta.",
+  "mv": "Inventario actualizado, al menos una vez por temporada, con los contenidos detallados en la acción."
+ },
+ "PP 050": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Disminuir el impacto ambiental de los agroquímicos",
+  "nivel": "Intermedio",
+  "accion": "El predio cuenta con señalética con indicaciones en caso emergencia por derrames de productos agroquímicos y un kit de emergencia, en el sector de lavado y zonas de almacenamiento. El kit cuenta con:\n- Señalética con protocolo de limpieza y números de emergencia.\n- Sector de lavado para manos y ojos (lavatorio).\n- Material de absorción para evitar propagación del derrame, por ejemplo: arena.\n- Sistema manual de extinción de incendios, a base de extintores compatibles con los productos almacenados",
+  "mv": "Inspección visual verificando la existencia de señalética y kit de emergencia con las características detalladas en la acción."
+ },
+ "PP 051": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Realizar limpieza y mantención adecuada de productos y equipos de aplicación de agroquímicos",
+  "nivel": "Avanzado",
+  "accion": "El predio realiza y registra mantenciones a sus equipos de aplicación de agroquímicos, con el objetivo de asegurar una adecuada calidad en la aplicación de agroquímicos y evitar fugas de producto. El registro de mantenciones cuenta con la siguiente información:\n• Fecha\n• Tipo de evento \n• Equipo o infraestructura\n• Detalle labores\n• Responsable\n\nEn el caso de que esta labor la realice una empresa externa, debe existir un contrato e informe que acredite la realización de la mantención.",
+  "mv": "Registro de mantención de equipos de aplicación aplicación de agroquímicos con el contenido detallado en la acción. En el caso que la mantención la realice una empresa externa, contrato o informe que acredite la realización de la mantención."
+ },
+ "PP 052": {
+  "dimension": "Ambiente",
+  "tema": "Insumos",
+  "bp": "Emplear de manera segura los productos agroquímicos en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio considera las condiciones climáticas para las aplicaciones de agroquímicos, realizándolas bajo las siguientes condiciones:\n- Temperaturas entre 10° y 30°C.\n- Velocidad del viento entre 3 y 15 km/h.\n- Ausencia de lluvia entre 2 a 8 horas después de la aplicación.\n\nAdemás, genera un registro de las aplicaciones que considera:\n- Fecha y hora.\n- Factores meteorológicos (temperatura, velocidad del viento y evento de lluvia).\n- Sector o cuartel.\n- Nombre del producto.\n- Ingrediente activo.\n- Dosis.\n- Dosis recomendada por fabricante.\n- Método de aplicación.\n- Objetivo de la aplicación.\n- Período de carencia y de reingreso.\n- Responsable.\nSe sugiere utilizar estación meteorológica propia o datos de portales como http://agroclima.cl o https://agrometeorologia.cl/",
+  "mv": "Registro actualizado de aplicaciones con la información detallada en la acción."
+ },
+ "PP 053": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Contar con un plan de manejo de residuos",
+  "nivel": "Fundamental",
+  "accion": "El predio identifica y registra los residuos sólidos generados y las posibles fuentes de contaminación. El registro contiene la siguiente información:\n- Identificación del tipo de residuo o agente contaminante.\n- Identificación de la cantidad producida mensualmente.\n- Identificación de los residuos peligrosos en caso que se generen.\n- Ubicación dentro de la planta.\n- Destino del residuo (reciclaje, reúso, eliminación, etc.).",
+  "mv": "Registro actualizado según lo especificado en la acción"
+ },
+ "PP 054": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Contar con un plan de manejo de residuos",
+  "nivel": "Avanzado",
+  "accion": "El predio ha generado y documentado un plan de manejo de residuos que cuenta con los siguientes contenidos:\n\n* Caracterización cualitativa (de los residuos peligrosos y no peligrosos) y cuantitativa (ton/mes) de los residuos. \n* Descripción del proceso y los puntos en que se generan residuos (diagrama).\n* Procedimientos internos para recoger y almacenar los residuos no peligrosos.\n•Identificación de alternativas de minimización y valorización de residuos no peligrosos.\n* Identificación de alternativas de eliminación de residuos en instalaciones autorizadas.",
+  "mv": "Plan de manejo de residuos según lo especificado en la acción"
+ },
+ "PP 055": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Minimizar la contaminación derivada de la gestión de los residuos",
+  "nivel": "Fundamental",
+  "accion": "El predio almacena los residuos (sólidos y/o líquidos) no peligrosos en contenedores, evitando el contacto directo con el suelo y la generación de derrames que contaminen el suelo y/o el agua.",
+  "mv": "Inspección visual del área de almacenamiento, corroborando que los residuos se encuentren dentro de los contenedores correspondientes."
+ },
+ "PP 056": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Minimizar la contaminación derivada de la gestión de los residuos",
+  "nivel": "Intermedio",
+  "accion": "El predio cuenta con un protocolo para minimizar la emisión de material particulado al interior de sus dependencias, y lo implementa. El protocolo considera las siguientes medidas:\n* No se permite la quema ni incineración de los desechos derivados de la producción.\n* Los caminos son pavimentados o se aplica un suspensor de polvo químico o gravilla para evitar el aumento de la polución.\n* Se realiza mantención a los equipos que utilizan combustibles fósiles internos, para evitar contaminación debido a fallas mecánicas.",
+  "mv": "Protocolo para minimizar la emisión de material particulado, en físico o digital, según las especificaciones detalladas en la acción, y registro de su implementación."
+ },
+ "PP 057": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar residuos inorgánicos a través de técnicas de valorización y reciclaje",
+  "nivel": "Fundamental",
+  "accion": "El predio disminuye sus residuos no peligrosos a vertedero a través de la segregación, almacenamiento y entrega para su valorización a gestores autorizados, basándose en sus características y en las opciones de reciclaje disponibles. Para ello, el predio posee contenedores y señalética para segregar adecuadamente los residuos y cuenta con los certificados de retiro y valorización, emitidos por gestores autorizados para su correcta disposición.",
+  "mv": "Inspección visual de la existencia de contenedores y señaléticas informativas para la segregación adecuada de:\n- PET y otros plásticos.\n- Tetra brick.\n- Papeles y cartones.\n- Vidrios.\n- Latas y otros metales.\n\nCertificados de retiro por gestores autorizados."
+ },
+ "PP 058": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar residuos inorgánicos a través de técnicas de valorización y reciclaje",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con tomadores de decisiones capacitados en materia de valorización de residuos. Se requiere que al menos una persona, tomadora de decisiones, haya recibido esta capacitación en los últimos 3 años. Se sugiere curso disponible en www.ciruelacertificada.cl",
+  "mv": "Certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.), con una antigüedad no mayor a 3 años."
+ },
+ "PP 059": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Gestionar residuos inorgánicos a través de técnicas de valorización y reciclaje",
+  "nivel": "Avanzado",
+  "accion": "El predio capacita al personal, con personal propio o externo, sobre la relevancia de la valorización de los residuos orgánicos e inorgánicos y los procedimientos apropiados para su debida segregación y manejo en origen.Se requiere que la capacitación se haya realizado en los últimos 3 años.",
+  "mv": "Registro de la ejecución de capacitaciones (lista de asistencia, estadísticas consolidadadas de asistencia desagregadas por sexo, tema expuesto, persona u organización/institución que expone, material expuesto, registro fotográfico y certificación entregada, en caso de haberla), con una antiguedad no mayor a 3 años."
+ },
+ "PP 060": {
+  "dimension": "Ambiente",
+  "tema": "Residuos",
+  "bp": "Compostar la materia orgánica generada utilizando el compost en su actividad productiva",
+  "nivel": "Fundamental",
+  "accion": "El predio valoriza la materia orgánica generada en sus procesos (poda, fruta u otro), a través de al menos, una de las siguientes técnicas:\n- Compostaje.\n- Lombricultura.\n- Reincorporación (picado o rastraje).\n- Venta o donación a otras explotaciones, siempre y cuando esté autorizado para hacerlo.\nAdemás, mantiene un registro actualizado con la siguiente información:\n- Identificación del tipo de residuo orgánico.\n- Identificación de la cantidad producida mensualmente.\n- Ubicación del almacenamiento de residuos dentro del predio.\n- Técnica de gestión utilizada (compostaje, lombricultura, reincorporación, venta o donación, etc.).",
+  "mv": "Registro actualizado sobre la valorización de materia orgánica, con las especificaciones detalladas en la acción."
+ },
+ "PP 061": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar un sistema de gestión de la energía",
+  "nivel": "Fundamental",
+  "accion": "En el predio se monitorean y registran todos los consumos (kWh) y costos ($) mensuales de energía por tipo de fuente: electricidad, gas natural, gas licuado de petróleo, bencina, diésel, leña, carbón, otros). El registro deberá contener:\n- Tipo de fuente de energía (electricidad, gas natural, gas licuado de petróleo, bencina, diésel, leña, carbón, otros).\n- Consumo energético mensual (kWh)\n- Gasto en energía ($/mes)",
+  "mv": "Registro de consumo energético mensual con las especificaciones detalladas en la acción."
+ },
+ "PP 062": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar un sistema de gestión de la energía",
+  "nivel": "Intermedio",
+  "accion": "El predio cuenta con un Diagnóstico Energético elaborado conforme al Nivel 1 de la \"Guía Metodológica de Auditoría Energética en Agroindustria\" (ASE y MEN, 2019), que identifica consumos por fuente y sistema, inventario de equipos principales, línea base anual y oportunidades iniciales de mejora en eficiencia energética. El diagnóstico debe incluir:\n\n- Consumos históricos de energía: facturación de los energéticos utilizados en el predio y consumo energético de los equipos.\n- Inventario y caracterización de equipos: Cantidad, especificaciones técnicas, horas de uso al día, lógica de operación.\n- Análisis de equipos y sistemas: caracterización de demanda y consumo energético.\n- Distribución y balance energético: distribución de potencia y energía,\n- Línea base definida,\n- Indicador de desempeño energético propuesto: por ejemplo, Energía consumida por unidad de producción total o por tipo de producto en línea de proceso, proceso, subproceso o equipo [kWh/unidad productiva].\n- Listado de oportunidades de mejora: recomendaciones generales de las etapas para lograr la implementación de las medidas priorizadas, costos y los tiempos estimados de ejecución para cada una de ellas.",
+  "mv": "Informe digital o en papel del diagnóstico con las especificaciones detalladas en la acción"
+ },
+ "PP 063": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar un sistema de gestión de la energía",
+  "nivel": "Intermedio",
+  "accion": "En el predio se capacita a los trabajadores en medidas de eficiencia energética que promueve el buen uso de la energía. Se cuenta con un registro de la capacitación (diploma, certificado, carta, u otro) donde se indica el nombre del trabajador, tema(s) cubierto(s), fecha del evento de capacitación e institución responsable. La capacitación puede ser presencial o a distancia, ofrecidas por entidades externas, incluidas empresas prestadoras de servicios. El registro de capacitación deberá tener como máximo 3 años de antigüedad.",
+  "mv": "Registro (digital o en papel) de la capacitación de acuerdo a lo establecido en la acción."
+ },
+ "PP 064": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar un sistema de gestión de la energía",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con un Plan de Gestión Eficiente de Energía. El Plan debe contener: \n- objetivo, \n- meta (en relación con el año de línea base y cuantificable en reducción de consumo energético, o bien, en intensidad energética), \n- identificación de los proyectos y/o iniciativas a implementar, con el monto de inversión, el plazo de ejecución, y la persona o unidad responsable, ahorros de energía anual (kWh), monto de ahorro anual ($), inicio de operación, vida útil de la medida. \nEl plan debe ser actualizado cada 2 años, indicándose el estado de implementación de cada medida propuesta, y la incorporación de nuevas medidas, si corresponde.",
+  "mv": "Plan (digital o en papel) de Gestión Eficiente de Energía, de acuerdo con lo establecido en la acción, y registros de proyectos y medidas implementadas (por ejemplo: facturas, fotografías, inspección visual, entre otros)."
+ },
+ "PP 065": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar medidas de eficiencia energética relacionadas al plan de gestión",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con señaléticas que promueven el buen uso de la energía. Las señaléticas deberán estar, al menos, en la caseta de riego, bodegas, oficinas, baños y comedores, entre otros. Las señaléticas deberán reforzar mensajes como:\n- Apaga la luz antes de salir.\n- Cierra la puerta al salir.\n- Recordar mantenciones preventivas.\n- Regular el consumo de agua caliente.",
+  "mv": "Inspección visual de señaléticas de uso eficiente de energía en espacios de trabajo de acuerdo con lo establecido en la acción."
+ },
+ "PP 066": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar medidas de eficiencia energética relacionadas al plan de gestión",
+  "nivel": "Básico",
+  "accion": "El predio implementa señaléticas para mejorar la eficiencia de los vehículos dentro y fuera de la explotación, que apunten a las siguientes medidas.\n- Control de la presión de los neumáticos.\n- Reducción del peso de la carga en los vehículos.\n- Conducción eficiente a velocidades inferiores a 20 km/h.\n- Combina viajes y evita los que son innecesarios.\n- Conduce suavemente, evitando aceleraciones y frenadas bruscas.\n- Condiciones climáticas: El viento en contra y las temperaturas extremas pueden aumentar el consumo de combustible",
+  "mv": "Inspección visual de señaléticas en área de guardado de vehículos, conforme a lo detallado en la acción."
+ },
+ "PP 067": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar medidas de eficiencia energética relacionadas al plan de gestión",
+  "nivel": "Intermedio",
+  "accion": "El predio cuenta con un registro del mantenimiento de equipos, motores, vehículos y maquinarias que se utilizan, en el cual se indican las mantenciones preventivas y correctivas. Los equipos, motores, vehículos y maquinarias que se consideran son: maquinaria agrícola (tractores y otros), sistema de ventilación en áreas productivas, sistemas de climatización, equipos de riego y vehículos motorizados asociados al sistema productivo. Estos registros pueden ser internos, o facturas o informes de técnicos del servicio de mantención contratado que especifique la acción realizada.",
+  "mv": "Registros (digital o en papel) de mantenimiento de equipos, motores, vehículos y maquinarias internos o facturas o informes de técnicos del servicio de mantención contratado."
+ },
+ "PP 068": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar sistemas de energías renovables",
+  "nivel": "Intermedio",
+  "accion": "El predio evalúa la factibilidad técnica y económica de incorporar energías renovables dentro de su sistema productivo.",
+  "mv": "Documento con estudio de factibilidad técnico-económica.\nEn el caso de que lo haga una empresa externa, esta debe entregar un informe que certifique que las acciones realizadas estén en función de lo solicitado."
+ },
+ "PP 069": {
+  "dimension": "Ambiente",
+  "tema": "Energía",
+  "bp": "Implementar sistemas de energías renovables",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con uno o más Sistema de Energía Renovable (ejemplo: sistema solar térmico, paneles fotovoltaicos, caldera a biomasa, planta de biogás u otro). Los sistemas están en buenas condiciones y operativos. Cuenta con registro que acredite que el equipo cumple con la normativa vigente atingente al tipo de sistema instalado, si corresponde.",
+  "mv": "Inspección visual. El Sistema de Energía Renovable se inspecciona de acuerdo con lo establecido en la acción. Registros de cumplimiento de la normativa vigente, si corresponde."
+ },
+ "PP 070": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero",
+  "bp": "Cuantificar emisiones de GEI en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio cuantifica sus emisiones directas e indirectas de GEI y define una línea base en las principales etapas de su producción. El registro de emisiones y capturas debe incluir fecha, monitoreo, periodo y balance de los siguientes aspectos:\nEmisiones directas de GEI (Alcance 1)\n• Combustión estacionaria\n• Combustión móvil\n• Uso suelo, cambios en el uso de suelo y silvicultura\n• Procesos industriales\n• Emisiones fugitivas\nEmisiones indirectas de GEI causadas por energía importada (Alcance 2)\n• Electricidad importada\n• Otra energía importada y/o pérdidas T&D\nOtras emisiones indirectas de GEI (Alcance 3)\n• Transporte\n• Bienes y servicios utilizados\n• Uso de productos de la organización \n*Se recomienda el uso de la plataforma de Huella Chile para cuantificar emisiones. \nEn el caso de que lo haga una empresa externa, esta debe entregar un informe que dé cuenta del contenido señalado anteriormente.",
+  "mv": "Registro de emisiones y capturas con las especificaciones detalladas en la acción, elaborado por el predio o empresa externa."
+ },
+ "PP 071": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero",
+  "bp": "Cuantificar emisiones de GEI en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio cuantifica anualmente la emisión y captura de Gases de Efecto Invernadero (GEI), generando un reporte anual de emisiones y capturas que debe incluir la metodología empleada y los resultados obtenidos. En el caso que la cuantificación y reporte lo haga una empresa externa, esta debe entregar un informe que dé  cuenta de lo señalado anteriormente.",
+  "mv": "Reporte anual de emisiones y capturas según lo especificado en la acción, elaborado por el predio o empresa externa."
+ },
+ "PP 072": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero",
+  "bp": "Reducir las emisiones y promover las capturas de GEI en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con tomadores de decisiones capacitados en la problemática asociada al cambio climático y conceptos sobre cuantificación y mitigación de emisión de GEI. Se requiere que al menos una persona, tomadora de decisiones, haya recibido esta capacitación en los últimos 3 años. Se sugiere curso disponible en www.ciruelacertificada.cl",
+  "mv": "Certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.), con una antiguedad no mayor a 3 años."
+ },
+ "PP 073": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero",
+  "bp": "Reducir las emisiones y promover las capturas de GEI en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio implementa un plan de capacitación para el personal, con personal propio o externo, que aborda la problemática asociada al cambio climático y conceptos sobre cuantificación y mitigación de emisión de GEI. Se requiere que la capacitación se haya realizado en los últimos 3 años.",
+  "mv": "Registro de la ejecución de capacitaciones (lista de asistencia, estadísticas consolidadadas de asistencia desagregadas por sexo, tema expuesto, persona u organización/institución que expone, material expuesto, registro fotográfico y certificación entregada, en caso de haberla), con una antiguedad no mayor a 3 años."
+ },
+ "PP 074": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero",
+  "bp": "Reducir las emisiones y promover las capturas de GEI en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con un plan de reducción de emisiones de GEI que contempla al menos 4 de las siguientes medidas:\n• Usar maquinaria agrícola eficiente energéticamente.\n• Optimiza las distancias de transporte en el campo para lograr reducciones en el uso de combustible.\n• Utiliza luminarias LED en bodegas, salas de empaque y oficinas para disminuir consumo eléctrico.\n• Cambia de combustibles fósiles a electricidad de la red o sistema solar fotovoltaico en el sistema de bombeo para riego.\n• Emplea métodos de labranza de conservación que promueven la captura de carbono en el suelo, como mínima labranza y los cultivos de cobertura.\n• Usa fertilizantes de formulación avanzada para reducir emisiones.\n• Recicla, composta y valoriza los residuos orgánicos generados en el huerto y sus procesos.\n• No utiliza fuego para la preparación de tierra o la eliminación en el campo de los residuos derivados de la producción.",
+  "mv": "Protocolo que incluya al menos 4 de las medidas especificadas en la acción"
+ },
+ "PP 075": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero",
+  "bp": "Elaborar un plan de reducción de riesgo de desastres",
+  "nivel": "Avanzado",
+  "accion": "El predio elabora e implementa un plan de reducción, control y respuesta frente a riesgo de desastres, vinculados al Cambio Climático. La elaboración del plan contempla determinar las amenazas históricas y proyectadas, identificar los recursos mínimos y capacidades para abordar las amenazas, y determinar las debilidades respecto de los recursos y capacidades requeridas. Las medidas del plan se elaboran en función de las debilidades detectadas y su respectiva priorización. Debe contener al menos:\n*Listado de las amenazas o peligros (internas y externas) según su origen, y evaluación de recursos y vulnerabilidades para enfrentar cada una de ellas\n* Programas de trabajo en sus fases de prevención, respuesta y recuperación.\n*Definición de responsables y de mecanismos para asignación de recursos que financien los programas de trabajo que surjan del plan.\n* Realización de simulaciones y simulacros.\nEl plan debe ser evaluado posterior a la ocurrencia de cada evento de emergencia o desastre.",
+  "mv": "Plan de reducción, control y respuesta frente a riesgos de desastre vinculados al cambio climático, con las especificaciones detalladas en la acción"
+ },
+ "PP 076": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero",
+  "bp": "Elaborar un plan de reducción de riesgo de desastres",
+  "nivel": "Avanzado",
+  "accion": "El predio incorpora monitoreo de parámetros de la situación meteorológica propia o cercana, para visualizar periodos de sequías extremas, altas y bajas temperaturas, y episodios de alta pluviometría. Se debe llevar registro de eventos meteorológicos significativos, indicando la fuente de obtención de la información (estación meteorológica propia o datos de portales como http://agroclima.cl/ o https://agrometeorologia.cl/ , de los siguientes puntos:\n* Altas temperaturas (más de 30°C).\n* Bajas temperaturas (menos de 4°C).\n* Lluvias.\n* Fuente de obtención de la información.\nEste registro debe ser actualizado de manera mensual.",
+  "mv": "Registro mensual de los eventos meteorológicos con las especificaciones detalladas en la acción"
+ },
+ "PP 077": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero",
+  "bp": "Elaborar un plan de reducción de riesgo de desastres",
+  "nivel": "Avanzado",
+  "accion": "La planta capacita al personal sobre el plan de reducción, control y respuesta frente a riesgo de desastres, vinculados al Cambio Climático, para evitar que sean susceptibles a sufrir daños o pérdidas por efecto de las amenazas.",
+  "mv": "Registro de ejecución de capacitaciones (lista de asistencia identificando sexo de quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "PP 078": {
+  "dimension": "Ambiente",
+  "tema": "Gases de Efecto Invernadero",
+  "bp": "Elaborar un plan de reducción de riesgo de desastres",
+  "nivel": "Avanzado",
+  "accion": "El predio previene el riesgo de incendios, considerando al menos dos de los siguientes aspectos:\n- Mapa o plano que identifique las zonas con presencia y acumulación de material vegetal seco o residuos agrícolas, cortafuegos, franjas de seguridad y áreas con baja carga de combustión.\n- Registro de manejo y destino de residuos de poda y raleo (triturado, compostaje, reincorporación al suelo u otros).\n- Documento que identifique la condición de la cobertura vegetal del suelo y su manejo para reducir la propagación del suelo.\n- Protocolo visible en el predio con zonas de seguridad y medidas preventivas frente a incendios (accesos, estanques de agua, señalización, coordinación local).\nLos documentos que se utilicen como medio de verificación deberán haber sido elaborados o actualizados en los últimos 12 meses.",
+  "mv": "Al menos dos de los documentos solicitados según las indicaciones de la acción."
+ },
+ "PP 079": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio identifica y gestiona de manera eficiente los principales puntos críticos de control (PCC) para la obtención de ciruelas para deshidratado. El protocolo para la gestión eficiente de los PCC debe contar con las siguientes medidas.\n- Grado de maduración de la fruta en base a acuerdos con clientes (brix, color, tamaño).\n- Humedad de secado (cancha u horno).\n- Otros identificados por la empresa.",
+  "mv": "Protocolo para la gestión de los PCC según lo indicado en la acción"
+ },
+ "PP 080": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en el predio",
+  "nivel": "Básico",
+  "accion": "El predio establece un procedimiento de control de calidad de la fruta cosechada. El registro de acciones de control de calidad realizadas en el predio debe incorporar:\n- Medición de niveles de grados brix en la fruta.\n- Medición de firmeza en la fruta.\n- Registro de identificación de defectos en la fruta.\n- Identificación de fruta apta para consumo que no cumple el estándar de mercado",
+  "mv": "Registro de acciones de control de calidad, con el contenido detallado en la acción"
+ },
+ "PP 081": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en el predio",
+  "nivel": "Básico",
+  "accion": "El predio posee procedimiento de control de calidad de la fruta conocida por las personas que trabajan en él.",
+  "mv": "Procedimiento de control de calidad (en digital o papel) y documentación de la ejecución de capacitaciones (lista de asistencia identificando sexo del participante, tema expuesto, expositor, material expuesto y certificación entregada)."
+ },
+ "PP 082": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en el predio",
+  "nivel": "Básico",
+  "accion": "El predio establece canales de comunicación con sus contrapartes directas en planta, para gestionar de manera oportuna los reclamos y no conformidades del proceso agroindustrial. A través de dichos canales se detalla:\n- Volumen de fruta recibida.\n- Presencia o no de no conformidades durante la temporada.",
+  "mv": "Informes o evidencia de comunicación (mensaje de WhatsApp, correo electrónico u otro documento) con la contraparte directa en planta, con el detalle indicado en la acción."
+ },
+ "PP 083": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer una política de calidad y de mejora continua en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio gestiona sus auditorías internas, en base los riesgos asociados, para evaluar el nivel de cumplimiento de su política de gestión de calidad.",
+  "mv": "Comprobante de auditoría interna, que permita verificar que se cumple con los requisitos de las certificaciones aplicables (con su respectiva periodicidad)."
+ },
+ "PP 084": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Documentar los procesos productivos realizados en el predio",
+  "nivel": "Básico",
+  "accion": "El predio mantiene registros de todo su producto cosechado dentro de la explotación. El documento de registro del producto cosechado cuenta con la siguiente información:\n- Fecha de cosecha.\n- Total de producción cosechada al día (kg).\n- Sector o cuartel cosechado.\n- Tipo de secado posterior (horno o cancha).\n- Empresa agroindustrial de destino u otro destino (p.ej. donación)",
+  "mv": "Documento de registro del producto cosechado según lo detallado en la acción"
+ },
+ "PP 085": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Documentar los procesos productivos realizados en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio registra todas las labores productivas realizadas y las personas responsables de su ejecución. El cuaderno de campo con labores productivas indicando:\n- Fecha y hora.\n- Sector o cuartel.\n- Labor realizada.\n- Objetivo.\n- Responsable.",
+  "mv": "Cuaderno de campo (físico o digital), con los contenidos detallados en la acción"
+ },
+ "PP 086": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Documentar los procesos productivos realizados en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio lleva un inventario de sus insumos para llevar una adecuada gestión de la calidad que cuenta con el siguiente contenido:\n- Nombre del producto.\n- Fecha de compra.\n- Número de lote y proveedor.\n- Unidades adquiridas.\n- Volumen utilizado.\n- Fecha de caducidad o vencimiento.",
+  "mv": "Inventario de los insumos con lo detallado en la acción"
+ },
+ "PP 087": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Documentar los procesos productivos realizados en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio maneja un registro de sus ventas para llevar una adecuada gestión de la calidad.",
+  "mv": "Registro de ventas con documentos tributarios asociados: \n-Facturas.\n-Guías de despacho."
+ },
+ "PP 088": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer un sistema de trazabilidad del producto a lo largo de todas sus etapas de producción",
+  "nivel": "Básico",
+  "accion": "El predio posee un protocolo de trazabilidad que implica un registro de trazabilidad en el predio que permita rastrear los siguientes aspectos:\n- Identificación del campo o cuarteles.\n- Variedad o especie. \n- Superficie.\n- Año de plantación.\nAdemás, debe contar con los registros de labores actualizados en el cuaderno de campo.",
+  "mv": "Registro de trazabilidad en el predio con los detalles indicados en la acción"
+ },
+ "PP 089": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Calidad",
+  "bp": "Poseer un sistema de trazabilidad del producto a lo largo de todas sus etapas de producción",
+  "nivel": "Intermedio",
+  "accion": "El predio asegura que sus productos posean un código que le permite rastrear la información sobre todos sus procesos productivos, al momento de llegar a la planta. Esto se realiza mediante el registro con el N° de guía de despacho o lote interno en la tarja del producto.",
+  "mv": "Registro con el N° de guía de despacho o lote interno en la tarja del producto."
+ },
+ "PP 090": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Poseer una política de inocuidad para la producción",
+  "nivel": "Fundamental",
+  "accion": "El predio utiliza señaléticas para promover prácticas sobre inocuidad e higiene, con las siguientes temáticas:\n- Procedimientos de limpieza.\n- Prohibición de labores ante sospecha de enfermedades contagiosas.\n- Manipulación de alimentos (lavado de manos, contaminación por agentes externos).",
+  "mv": "Inspección visual de las señaléticas que cuenten con la información detallada en la acción."
+ },
+ "PP 091": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Poseer una política de inocuidad para la producción",
+  "nivel": "Intermedio",
+  "accion": "El predio posee un plan de gestión de la inocuidad, que garantiza que los productos cumplan con los requerimientos de calidad y seguridad requeridos. El plan debe contener la siguiente información:\n- Realizar análisis de riesgos.\n- Determinar Puntos Críticos de Control (PCC).\n- Establecer límites críticos.\n- Establecer procedimientos de monitoreo.\n- Establecer medidas correctivas.\n- Establecer procedimientos de comprobación auditables.",
+  "mv": "Plan de gestión de inocuidad con los detalles especificados en la acción."
+ },
+ "PP 092": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Poseer una política de inocuidad para la producción",
+  "nivel": "Avanzado",
+  "accion": "El predio realiza auditorías internas anuales, para evaluar el nivel de cumplimiento de su política de inocuidad.",
+  "mv": "Comprobante de auditoría interna, que permita verificar que se cumple con los requisitos de inocuidad, al menos una vez por año."
+ },
+ "PP 093": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Asegurar la inocuidad de los insumos, espacios, equipos e indumentarias requeridas para la producción",
+  "nivel": "Básico",
+  "accion": "El predio cuenta con un lugar adecuado para la disposición temporal de la fruta cosechada (antes de ser enviada a secado), impidiendo el contacto con contaminantes o vectores.",
+  "mv": "Inspección visual de los espacios de disposición temporal de la fruta, asegurando que estos posean sombras y no se ubiquen cerca de agentes contaminantes."
+ },
+ "PP 094": {
+  "dimension": "Calidad",
+  "tema": "Gestión de la Inocuidad",
+  "bp": "Asegurar la inocuidad de los insumos, espacios, equipos e indumentarias requeridas para la producción",
+  "nivel": "Intermedio",
+  "accion": "El predio se asegura de que los insumos aplicados en las labores productivas, no representen un riesgo para la inocuidad alimentaria, utilizando productos autorizados para las ciruelas y respetando los periodos de carencia. Lleva un registro actualizado de aplicaciones con la siguiente información:\nFecha y hora.\nSector o cuartel.\nNombre del producto.\nIngrediente activo.\nDosis.\nDosis recomendada por fabricante.\nMétodo de aplicación.\nObjetivo de la aplicación.\nPeríodo de carencia y de reingreso.\nResponsable",
+  "mv": "Registro actualizado de aplicaciones con los detalles especificados en la acción"
+ },
+ "PP 095": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad del predio",
+  "nivel": "Fundamental",
+  "accion": "El predio identifica los principales puntos críticos de su producción y busca mejoras para aumentar su productividad.",
+  "mv": "Documento de identificación de puntos críticos dentro de la producción."
+ },
+ "PP 096": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad del predio",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con un plan de gestión de productividad y rentabilidad, que le permite definir indicadores de gestión y asegurar su viabilidad a largo plazo. El plan cuenta con los siguientes puntos:\n- Presupuesto\n- Proyecciones de ventas\n- Organigrama y descripción de cargos dentro de la empresa",
+  "mv": "Plan de gestión con la información detallada en la acción"
+ },
+ "PP 097": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad del predio",
+  "nivel": "Básico",
+  "accion": "Anualmente, el predio accede a información sobre nuevas tecnologías y prácticas, para evaluar su contribución a la productividad y/o rentabilidad y su eventual adopción. El acceso a información podrá considerar visitas de asesores al predio, visitas a ferias tecnológicas, cotizaciones de tecnologías o servicios.",
+  "mv": "Registro de visitas de asesores/as, registro de visitas a ferias tecnológicas o cotizaciones de tecnologías o servicios. El registro deberá tener como máximo 1 año de antigüedad."
+ },
+ "PP 098": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad del predio",
+  "nivel": "Básico",
+  "accion": "El predio cuenta con un sistema de gestión contable, que considera registros de inventario, control de gastos, ingresos y utilidades derivadas del proceso productivo. Se requiere tener:\n- Inventario de productos entrantes y salientes.\n- Registro contable de la empresa.",
+  "mv": "Documentos de registro según lo especificado en la acción"
+ },
+ "PP 099": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad del predio",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con una herramienta de gestión digital, que facilita la implementación de medidas y registros.",
+  "mv": "Registro de licencia o suscripción a plataforma digital específica para la gestión agrícola."
+ },
+ "PP 100": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad del predio",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con una persona encargada o una persona que realiza asesoría financiera.",
+  "mv": "Son válidos alguno de los siguientes documentos:\n* Contrato de servicios de una persona que realiza asesorías financieras.\n* Descripción de cargos y CV de la persona encargada del área financiera."
+ },
+ "PP 101": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Mejorar la productividad y rentabilidad del predio",
+  "nivel": "Avanzado",
+  "accion": "El predio forma parte de una \"comunidad de práctica\", que le permite realizar una evaluación de cambio tecnológico, en conjunto con otras empresas de la industria a nivel territorial.",
+  "mv": "Actas de reuniones realizadas con la “comunidad de práctica”."
+ },
+ "PP 102": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Gestionar el predio para garantizar su viabilidad económica y financiera",
+  "nivel": "Intermedio",
+  "accion": "El predio cuenta con tomadores de decisiones capacitados en materias que les permite entender de mejor manera el comportamiento del mercado de ciruelas deshidratadas. Se requiere que al menos una persona, tomadora de decisiones, haya recibido esta capacitación en los últimos 3 años.",
+  "mv": "Certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.), con una antigüedad no mayor a 3 años."
+ },
+ "PP 103": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Gestionar el predio para garantizar su viabilidad económica y financiera",
+  "nivel": "Avanzado",
+  "accion": "El predio desarrolla una visión empresarial y planifica y decide, en base a información robusta de índole económica y financiera. Se debe registrar de planificación estratégica con una vigencia de máximo 5 años, conteniendo la siguiente información:\n- Diagnóstico que incorpore un FODA.\n- Plan de implementación en base a los resultados del FODA, (ventajas competitivas para potenciar fortalezas, evitar debilidades y enfrentar amenazas).\"",
+  "mv": "Registro de la planificación estratégica, con los detalles indicados en la acción"
+ },
+ "PP 104": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Fomentar que las personas que trabajan en el predio, tengan acceso a la información de productividad y mercado",
+  "nivel": "Intermedio",
+  "accion": "El predio capacita a su personal sobre estrategias de aumento de la productividad, para que puedan identificar los puntos críticos del proceso y conozcan las herramientas de optimización de la producción.",
+  "mv": "Registro de la ejecución de capacitaciones (lista de asistencia identificando sexo quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "PP 105": {
+  "dimension": "Gestión",
+  "tema": "Viabilidad Económica",
+  "bp": "Fomentar que las personas que trabajan en el predio, tengan acceso a la información de productividad y mercado",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con tomadores de decisiones capacitados en finanzas, costos de producción y gestión del negocio agrícola. Se requiere que al menos una persona tomadora de decisiones, haya recibido alguna capacitación en los últimos 3 años. Se sugiere curso disponible en  www.ciruelacertificada.cl",
+  "mv": "Certificado de participación en instancias de capacitación externa (cursos, seminarios, congresos, etc.), con una antigüedad no mayor a 3 años."
+ },
+ "PP 106": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Evaluar el impacto generado en las comunidades locales",
+  "nivel": "Intermedio",
+  "accion": "El predio identifica los potenciales impactos, positivos y negativos, generados en las comunidades vecinas, desarrollando una matriz de actores con la identificación de los impactos provocados, que contenga:\n• Nombre de la organización/institución/actor\n• Representante o contraparte\n• Cargo\n• Contacto\n• Categoría de actor (empresa, comercio, residentes, servicios locales, etc.).\n• Ubicación geográfica en el territorio\n• Relaciones predominantes con la empresa\n• Nivel de afectación (positiva y negativa) de las operaciones de la empresa.\n• Impacto Identificado\nEs deseable realizar una validación de los impactos identificados, con los actores incumbentes.",
+  "mv": "Matriz de actores con las especificaciones detalladas en la acción"
+ },
+ "PP 107": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Evaluar el impacto generado en las comunidades locales",
+  "nivel": "Avanzado",
+  "accion": "El predio aplica medidas de mitigación para los impactos generados y los registra a través de una matriz. Esta matriz de medidas cuenta con la siguiente información:\n• Efecto\n• Acción\n• Objetivo (fortalecer, prevenir, mitigar)\n• Resultado esperado\n• Resultados obtenidos (en caso de ya tener)",
+  "mv": "Matriz de las medidas de mitigación de impactos con las especificaciones detalladas en la acción"
+ },
+ "PP 108": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Contribuir al desarrollo local",
+  "nivel": "Avanzado",
+  "accion": "El predio apoya con aportes pecuniarios y no pecuniarios, proyectos o iniciativas que abordan las necesidades y prioridades de la comunidad, con el fin de mejorar la calidad de vida de sus habitantes en temas como: educación, salud, capacitación, saneamiento, problemas ambientales, deporte, infraestructura comunitaria o pública, con acciones de RES u otras.",
+  "mv": "Son válidos cualquiera de los documentos que se proponen a continuación.\n- Portafolio de evidencia de las actividades realizadas, ej. proyectos realizados, imágenes, registros de convenios, canales de comunicación, minutas. \n- Documentos que evidencien el tipo de iniciativa, la fecha, la ubicación, los montos y/o las horas profesionales invertidas."
+ },
+ "PP 109": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Contribuir a la economía local",
+  "nivel": "Fundamental",
+  "accion": "El predio contribuye a la economía local, comprando los bienes y servicios, que no son claves para la producción, a personas o empresas locales a nivel provincial. Por ejemplo: materiales de oficina, productos de aseo, alimentación, vestimenta, etc.",
+  "mv": "Son válidos algunos de los siguientes documentos:\n- Registro de documento tributario que acredite compras a empresas locales.\n- Contratos de compra con proveedores locales."
+ },
+ "PP 110": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Contribuir a la economía local",
+  "nivel": "Básico",
+  "accion": "El predio promueve la contratación de personas, mediante la difusión de ofertas laborales a los habitantes de la misma provincia, ya sea trabajo temporal o permanente.",
+  "mv": "Son válidos algunos de los siguientes documentos:\n- Registro de contratos laborales.\n- Registro de ofertas laborales en la OMIL local."
+ },
+ "PP 111": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Contribuir a la economía local",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con, al menos, un 90% del personal contratado (de manera permanente) de la misma provincia.",
+  "mv": "- Listado de trabajadores contratados, indicando dirección del trabajador.\n- Registro de contratos identificando a personas de la provincia."
+ },
+ "PP 112": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Mantener un sistema de comunicación efectivo con la comunidad",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con canales de comunicación efectivos para informar a las comunidades locales, sobre la faena que podría impactar positiva o negativamente en el entorno o territorio, y otras actividades que se quieran comunicar.",
+  "mv": "Portafolio que registre los canales de comunicación con la comunidad, por ejemplo: acta de reuniones con la JJVV, anuncios en radios locales, publicaciones en el diario mural de la junta de vecinos, mensajes de WhatsApp, etc."
+ },
+ "PP 113": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Mantener un sistema de comunicación efectivo con la comunidad",
+  "nivel": "Intermedio",
+  "accion": "El predio dispone de un mecanismo de gestión de reclamos y sugerencias, a disposición de las comunidades locales, y además, mantiene un registro de las mismas y de cómo se han abordado. El registro debe contener:\n* Nombre\n* Fecha\n* Correo electrónico\n* Teléfono\n* Reclamo o sugerencia\n* Encargado de gestionar \n* Resolución.\n* Fecha resolución",
+  "mv": "Registro de reclamos y sugerencias con las especificaciones detalladas en la acción. Debe estar actualizado al momento de su revisión."
+ },
+ "PP 114": {
+  "dimension": "Social",
+  "tema": "Comunidades Locales",
+  "bp": "Mantener un sistema de comunicación efectivo con la comunidad",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con una persona responsable de coordinar, planificar y ejecutar proyectos de relacionamiento comunitario.",
+  "mv": "Son válidos alguno de los siguientes documentos:\n- Identificación de la persona encargada o responsable, a través del organigrama o la descripción de cargos.\n- Convenio con la institución que realiza los trabajos comunitarios."
+ },
+ "PP 115": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Disponer de instalaciones adecuadas y seguras para las personas que trabajan en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio se asegura de que las personas y familias que viven de manera permanente o temporal en sus dependencias, cuenten con alojamiento seguro y limpio. Los alojamientos deben contar con:\n- agua, \n- electricidad, \n- instalaciones sanitarias, \n- ventilación, \n- pisos secos y lavables, \n- temperaturas adecuadas\n- control de plagas.",
+  "mv": "Inspección visual de alojamientos que cuentan como mínimo con lo especificado en la acción."
+ },
+ "PP 116": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio mantiene un registro mensual de la gestión de la seguridad de las personas que trabajan en él. El registro debe contener como mínimo: \n* Número mensual diferenciado por sexo.\n* Número mensual de incidentes y accidentes. \n* Número mensual de casos con enfermedades profesionales.\n* Total mensual de días perdidos. \n* Tasa de accidentabilidad.\n* Licencias médicas.",
+  "mv": "Registro actualizado con las especificaciones detalladas en la acción. En el caso de empresas que subcontraten los servicios durante la temporada, estas deben entregar todos los registros antes mencionados"
+ },
+ "PP 117": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio cuenta con señaléticas asociadas a la prevención de riesgos laborales y respuesta a emergencias y, al menos una vez al año, refuerza dichos contenidos a través de capacitación.",
+  "mv": "Inspección visual de señalética y registro de realización de capacitaciones en la materia."
+ },
+ "PP 118": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en el predio",
+  "nivel": "Básico",
+  "accion": "El predio cuenta con una persona a cargo del programa de prevención de riesgos (prevencionista de riesgos) o un convenio con una mutual que desarrolle esta labor.",
+  "mv": "Contrato con profesional prevencionista o convenio con la Mutual de seguridad."
+ },
+ "PP 119": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en el predio",
+  "nivel": "Intermedio",
+  "accion": "El predio implementa un programa de gestión de riesgos para quienes trabajan en él. El documento con el programa de prevención de riesgos contempla los siguientes aspectos:\no Identificación y evaluación de riesgos.\no Medidas preventivas y de protección.\no Vigilancia de la salud.\no Investigación de accidentes e incidentes.",
+  "mv": "Documento con el programa con las características especificadas en la acción. En el caso de empresas de menor tamaño (AFC) que subcontraten los servicios durante la temporada, estas deben entregar todos los registros antes mencionados."
+ },
+ "PP 120": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar y garantizar la salud y seguridad de las personas que trabajan en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio somete a exámenes médicos, al menos una vez al año, a quienes normalmente estén expuestos a labores que puedan generar un riesgo para su salud (ruido, sustancias tóxicas, entre otros) y entrega los resultados a cada uno.",
+  "mv": "Registro de que las personas que manejan productos agroquímicos, cuentan con exámenes médicos vigentes (al menos un año). Por ejemplo: control de sangre preventivo, examen de colinesterasa, examen general (mutual).\nEn el caso de empresas que subcontraten los servicios durante la temporada, estas deben entregar todos los registros antes mencionados."
+ },
+ "PP 121": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar por el bienestar social y laboral de las personas que trabajan en el predio",
+  "nivel": "Fundamental",
+  "accion": "El predio posee un reglamento, política, código de ética o similar donde se establece la no discriminación por raza, color, religión, género, nacionalidad, tendencia política,  entre otros, al interior de la empresas y en procesos de contratación.",
+  "mv": "- Documento con reglamento, código de ética y/o política de contratación, donde se establece la  no discriminación al interior de la empresa y en proceso de contratación.\n- Lista de trabajadores/as identificados por sexo.\n- Registro de ofertas laborales del último año en las que se evidencie que no se solicita que la persona a contratar, pertenezca a un género específico."
+ },
+ "PP 122": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar por el bienestar social y laboral de las personas que trabajan en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio capacita a su personal sobre cómo desempeñar las labores asociadas a su trabajo, buscando la eficiencia en su desempeño. La capacitación se realiza al menos una vez cada 3 años.",
+  "mv": "Registro de la ejecución de capacitaciones (lista de asistencia, estadísticas consolidadadas de asistencia desagregadas por sexo, tema expuesto, persona u organización/institución que expone, material expuesto, registro fotográfico y certificación entregada, en caso de haberla), con una antiguedad no mayor a 3 años."
+ },
+ "PP 123": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Velar por el bienestar social y laboral de las personas que trabajan en el predio",
+  "nivel": "Avanzado",
+  "accion": "El predio cuenta con un programa para promover estilos de vida saludables y prevenir dependencias a drogas y alcohol.",
+  "mv": "Portafolio de evidencia que respalde la existencia del programa con listado de potenciales instituciones u organizaciones de apoyo, públicas o privadas."
+ },
+ "PP 124": {
+  "dimension": "Social",
+  "tema": "Condiciones de Trabajo y Protección Social",
+  "bp": "Respetar los derechos laborales de las personas que trabajan en el predio",
+  "nivel": "Básico",
+  "accion": "El predio se asegura de que su personal conozca sus derechos y obligaciones relacionados con la situación contractual con la empresa y las leyes laborales vigentes.",
+  "mv": "Son válidos los siguientes documentos.\n- Registro de información entregada al personal a través de correos electrónicos, folletos, publicaciones en diarios murales y/o registros de capacitaciones asociadas al tema.\n- Registro de entrega del Reglamento interno.\n- Registro de inducciones o documento con instrucciones respecto al puesto de trabajo.\nEn el caso de empresas de menor tamaño (AFC) que subcontraten los servicios durante la temporada, estas deben entregar todos los registros antes mencionados."
+ },
+ "PP 125": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercados de destino a nivel internacional",
+  "nivel": "Fundamental",
+  "accion": "Las personas que trabajan en el predio han sido capacitadas y conocen la legislación aplicable a sus labores.",
+  "mv": "Registro de la ejecución de capacitaciones (lista de asistencia identificando sexo quien participa, tema expuesto, persona que expone, material expuesto, registro fotográfico y certificación entregada)."
+ },
+ "PP 126": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercados de destino a nivel internacional",
+  "nivel": "Básico",
+  "accion": "El predio guarda los registros que acrediten el cumplimiento de las diferentes legislaciones o certificaciones, durante un plazo de al menos 5 años.",
+  "mv": "Inspección visual de documentos de registro archivados o documentos digitales almacenados."
+ },
+ "PP 127": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercados de destino a nivel internacional",
+  "nivel": "Básico",
+  "accion": "El predio demuestra un título o contrato de uso de tierra claro en conformidad con las prácticas, uso de suelo y legislaciones nacionales.",
+  "mv": "Son válidos los siguientes documentos de validación.\n- Escritura de propiedad que verifique el uso de suelo.\n- Copia de instrumentos de ordenamiento territorial que verifiquen uso de suelo."
+ },
+ "PP 128": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercados de destino a nivel internacional",
+  "nivel": "Avanzado",
+  "accion": "El predio identifica las legislaciones relacionadas con las obligaciones prioritarias para la empresa, a través de una matriz de riesgos.\nLa matriz cuenta con el listado de normativas aplicables para el predio que incluye la siguiente información:\n- Tipo de documento (ley, resolución, decreto, norma, etc.) y entidad o Ministerio.\n- Identificación de normativas prioritarias. \n- Acciones requeridas para verificar y asegurar su cumplimiento.\nAdicionalmente, se debe mantener al menos una copia de las normativas prioritarias, ya sea como documento impreso y/o registro digital.",
+  "mv": "Matriz con listado de normativas con las especificaciones detalladas en la acción e inspección visual de la existencia de la copia impresa o digital."
+ },
+ "PP 129": {
+  "dimension": "Ética",
+  "tema": "Debida Diligencia de la Legislación",
+  "bp": "Asegurar la debida diligencia de todas las leyes, reglamentaciones, certificaciones aplicables para la industria, tanto a nivel nacional como de los mercados de destino a nivel internacional",
+  "nivel": "Avanzado",
+  "accion": "El predio mantiene un diálogo permanente con las instituciones asociadas a las entidades legisladoras a nivel territorial o regional.",
+  "mv": "Son válidos los siguientes documentos:\n- Actas de reuniones realizadas a través de la Ley de Lobby.\n- Actas de reuniones con entidades legisladoras."
+ }
+}
