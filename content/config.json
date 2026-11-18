@@ -25,7 +25,7 @@
     "debida-diligencia-de-la-legislacion": "Debida diligencia de la legislación"
   },
   "formulario_url": "https://forms.gle/LVDVQa413HQ3DWWD9",
-  "plataforma_url": "",
+  "plataforma_url": "https://agro-extension-digital-app.vercel.app/auth/login",
   "tema_carpeta": {
     "Agua": "gestion-sustentable-del-agua",
     "Suelo": "gestion-sustentable-de-suelos",

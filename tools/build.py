@@ -429,6 +429,7 @@ for f in glob.glob(os.path.join(SITE,'**','index.html'),recursive=True):
     t=t.replace('elementor-button-text">Recursos<','elementor-button-text">Plataforma de certificación<')
     t=re.sub(r'¿Tienes dudas respecto al\s*(?:<br\s*/?>)?\s*Estándar de\s*certificación\?','¿Quieres saber más sobre el proceso?',t)
     t=re.sub(r'Rellena nuestro formulario de contacto con tus datos y detalla tus dudas o consultas en el campo\s*[“"]mensaje[”"], nuestro equipo te contactará a la brevedad\.','Déjanos tus datos y cuéntanos qué te gustaría saber sobre la certificación. Nuestro equipo te contactará a la brevedad.',t)
+    t=re.sub(r'<a ([^>]*?)href="[^"]*"([^>]*)>(\s*<span class="elementor-button-content-wrapper">\s*<span class="elementor-button-text">Plataforma de certificación)',lambda m:'<a '+re.sub(r' ?target="[^"]*"| ?rel="[^"]*"','',m.group(1)+m.group(2)).strip()+' href="'+PLAT+'" target="_blank" rel="noopener">'+m.group(3),t)
     # un solo formulario
     t=t.replace('https://forms.gle/7MgyV7GKXY9YBEKv5',FORM).replace('https://forms.gle/bcpuHCxg7zGBdZpz5',FORM)
     t=re.sub(r'(<!--cc-form-->.*?<!--/cc-form-->)|(<form class="elementor-form".*?</form>)',f'<!--cc-form--><div class="cc-formbtn"><a class="cc-btn cc-btn--w" style="color:#76236C!important" href="{FORM}" target="_blank" rel="noopener">Enviar mi consulta</a></div><!--/cc-form-->',t,flags=re.S)
