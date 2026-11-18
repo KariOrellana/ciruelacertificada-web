@@ -46,7 +46,7 @@ VID,CURSO=videos()
 def label(fn):
     b=os.path.splitext(fn)[0]
     if re.search(r'gu[ií]a',b,re.I): return 'Guía'
-    m=re.search(r'parte-?(\d)',b,re.I); return f'Parte {m.group(1)}' if m else b.replace('-',' ')
+    m=re.search(r'parte-?(\d)',b,re.I); return f'Parte {m.group(1)}' if m else 'Documento'
 def theme_cards():
     cards=[]
     pdfdir=os.path.join(PDFSRC,'pdf')
