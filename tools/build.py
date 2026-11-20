@@ -375,6 +375,10 @@ _t=re.sub(r'<!--cc:empresas-->.*?<!--/cc:empresas-->','',_t,flags=re.S)
 if '<!--cc:empresas-->' not in _t:
     _t=_t.replace('<!--cc:consiste-->','<!--cc:empresas-->'+block_empresas()+'<!--/cc:empresas--><!--cc:consiste-->',1)
 open(_f,'w',encoding='utf8').write(_t)
+# video de portada: el widget de Elementor lo inyectaba con JS y no aparecía; se deja el iframe fijo
+_t=open(_f,encoding='utf8').read()
+_t=re.sub(r'<div class="elementor-video">(<iframe[^>]*></iframe>)?</div>','<div class="elementor-video"><iframe class="cc-yt" src="https://www.youtube-nocookie.com/embed/Tur7jmA1gSU?rel=0" title="Video del estándar de sustentabilidad" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>',_t)
+open(_f,'w',encoding='utf8').write(_t)
 swap(os.path.join(SITE,'index.html'),by_id('niveles-de-clasificacion'),block_niveles(),'niveles')
 swap(os.path.join(SITE,'index.html'),by_id('periodos'),block_periodos(),'periodos')
 
