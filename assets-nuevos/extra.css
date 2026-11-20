@@ -245,3 +245,6 @@ a.elementor-button[href*="forms.gle"]{background:#fff!important;color:#76236C!im
 .cc-endims{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:18px}
 .cc-endim{border-left:6px solid;background:#fff;border-radius:10px;padding:14px 18px;box-shadow:0 1px 6px rgba(0,0,0,.08)}
 .cc-endim h3{margin:0 0 6px;font-size:20px}.cc-endim p{margin:0;font-size:16px;line-height:1.5}
+
+.cc-yt{width:100%;aspect-ratio:16/9;height:auto;border:0;border-radius:12px;display:block}
+.elementor-widget-video .elementor-video{width:100%}
