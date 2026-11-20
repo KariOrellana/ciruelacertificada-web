@@ -388,10 +388,6 @@ open(_f,'w',encoding='utf8').write(_t)
 for std,fol in (('pp','estandar-produccion-primaria'),('aa','estandar-adecuacion-agroindustrial')):
     swap(os.path.join(SITE,fol,'index.html'),lambda t,top:top[:2],block_std(std,'../'),'std')
 
-# ================= opciones de banner (vista previa) =================
-lab=lambda n,d:f'<div class="cc-wrap" style="padding:28px 24px 10px"><h2 style="margin:0;color:#76236C">Opción {n.upper()}</h2><p style="margin:4px 0 0;color:#555">{d}</p></div>'
-page('Opciones de banner',hero('Opciones de banner','Cuatro diseños para el banner de los agentes virtuales.')+lab('a','Tarjetas de agentes: título a la izquierda y un agente por estándar.')+banner('a','../')+lab('b','Chat de WhatsApp: cada agente saluda en su globo, estilo conversación.')+banner('b','../')+lab('c','Foto del productor con los dos agentes como insignias y botones con su ícono.')+banner('c','../')+lab('d','Franja delgada: un agente a cada lado del mensaje.')+banner('d','../'),'opciones-banner')
-
 # ================= cabecera, menú, formularios, enlaces =================
 FORM=cfg['formulario_url']; PLAT=cfg.get('plataforma_url') or './#estandares'
 for f in glob.glob(os.path.join(SITE,'**','index.html'),recursive=True):
@@ -430,6 +426,7 @@ for f in glob.glob(os.path.join(SITE,'**','index.html'),recursive=True):
     t=re.sub(r'¿Tienes dudas respecto al\s*(?:<br\s*/?>)?\s*Estándar de\s*certificación\?','¿Quieres saber más sobre el proceso?',t)
     t=re.sub(r'Rellena nuestro formulario de contacto con tus datos y detalla tus dudas o consultas en el campo\s*[“"]mensaje[”"], nuestro equipo te contactará a la brevedad\.','Déjanos tus datos y cuéntanos qué te gustaría saber sobre la certificación. Nuestro equipo te contactará a la brevedad.',t)
     t=re.sub(r'<a ([^>]*?)href="[^"]*"([^>]*)>(\s*<span class="elementor-button-content-wrapper">\s*<span class="elementor-button-text">Plataforma de certificación)',lambda m:'<a '+re.sub(r' ?target="[^"]*"| ?rel="[^"]*"','',m.group(1)+m.group(2)).strip()+' href="'+PLAT+'" target="_blank" rel="noopener">'+m.group(3),t)
+    t=re.sub(r'https://ciruelacertificada\.cl/[^"\']*\?lang=en',base+'en/',t)
     # un solo formulario
     t=t.replace('https://forms.gle/7MgyV7GKXY9YBEKv5',FORM).replace('https://forms.gle/bcpuHCxg7zGBdZpz5',FORM)
     t=re.sub(r'(<!--cc-form-->.*?<!--/cc-form-->)|(<form class="elementor-form".*?</form>)',f'<!--cc-form--><div class="cc-formbtn"><a class="cc-btn cc-btn--w" style="color:#76236C!important" href="{FORM}" target="_blank" rel="noopener">Enviar mi consulta</a></div><!--/cc-form-->',t,flags=re.S)
@@ -441,4 +438,5 @@ for f in glob.glob(os.path.join(SITE,'**','index.html'),recursive=True):
 for f in glob.glob(os.path.join(SITE,'wp-content','uploads','elementor','css','*.css')):
     t=open(f,encoding='utf8').read(); t2=re.sub('(?i)#(469300|1E7F6C|C96510|2F7D4F)','#76236C',t); t2=re.sub('(?i)#(F4FFEA|E3F1EE)','#F3ECF3',t2)
     if t2!=t: open(f,'w',encoding='utf8').write(t2)
+exec(compile(open(os.path.join(ROOT,'tools','en_page.py'),encoding='utf8').read(),'en_page.py','exec'))
 print('ok')
