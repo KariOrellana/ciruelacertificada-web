@@ -378,7 +378,7 @@ open(_f,'w',encoding='utf8').write(_t)
 swap(os.path.join(SITE,'index.html'),by_id('niveles-de-clasificacion'),block_niveles(),'niveles')
 swap(os.path.join(SITE,'index.html'),by_id('periodos'),block_periodos(),'periodos')
 
-swap(os.path.join(SITE,'index.html'),by_id('estandares'),block_estandares('./',cfg.get('plataforma_url') or './#estandares'),'estandares')
+swap(os.path.join(SITE,'index.html'),by_id('estandares'),block_estandares('./',cfg['ingreso_url']),'estandares')
 _f=os.path.join(SITE,'index.html'); _t=open(_f,encoding='utf8').read(); _m='<!--cc:faq-->'; _e='<!--/cc:faq-->'
 if _m in _t: _t=re.sub(re.escape(_m)+'.*?'+re.escape(_e),lambda _:_m+block_faq()+_e,_t,flags=re.S)
 else:
@@ -388,8 +388,18 @@ open(_f,'w',encoding='utf8').write(_t)
 for std,fol in (('pp','estandar-produccion-primaria'),('aa','estandar-adecuacion-agroindustrial')):
     swap(os.path.join(SITE,fol,'index.html'),lambda t,top:top[:2],block_std(std,'../'),'std')
 
+
+# ================= /ingreso/: dirección propia que lleva a la plataforma =================
+_dest=cfg['plataforma_url']
+os.makedirs(os.path.join(SITE,'ingreso'),exist_ok=True)
+open(os.path.join(SITE,'ingreso','index.html'),'w',encoding='utf8').write(f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ingreso a la plataforma – Ciruela Certificada</title><meta name="robots" content="noindex"><link rel="canonical" href="{_dest}">
+<meta http-equiv="refresh" content="0;url={_dest}"><script>location.replace("{_dest}")</script>
+<style>body{{margin:0;min-height:100vh;display:grid;place-items:center;background:#76236C;color:#fff;font-family:Poppins,system-ui,sans-serif;text-align:center}}a{{color:#fff}}</style></head>
+<body><p>Te estamos llevando a la plataforma de certificación…<br><a href="{_dest}">Si no avanza, haz clic aquí</a></p></body></html>''')
+
 # ================= cabecera, menú, formularios, enlaces =================
-FORM=cfg['formulario_url']; PLAT=cfg.get('plataforma_url') or './#estandares'
+FORM=cfg['formulario_url']; PLAT=cfg['ingreso_url']
 for f in glob.glob(os.path.join(SITE,'**','index.html'),recursive=True):
     t=open(f,encoding='utf8').read(); rel=os.path.relpath(SITE,os.path.dirname(f)); base='' if rel=='.' else rel+'/'; base='./' if base=='' else base
     k=t.find('proyectoseis.cl/diseno-web')
